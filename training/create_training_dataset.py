@@ -16,6 +16,8 @@ rows = []
 for sample in ds["train"]:
 
     if len(sample["relations"]) == 0:
+        
+
         continue
 
     entity_map = build_entity_map(sample)
