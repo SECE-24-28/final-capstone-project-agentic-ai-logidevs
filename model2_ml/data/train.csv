@@ -1,7 +1,0 @@
-drug1,drug2,label
-Aspirin,Warfarin,1
-Paracetamol,Ibuprofen,0
-Metformin,Insulin,1
-Aspirin,Metformin,0
-Warfarin,Ibuprofen,1
-Paracetamol,Insulin,0

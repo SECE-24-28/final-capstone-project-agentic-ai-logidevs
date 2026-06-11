@@ -1,12 +1,26 @@
+import os
 import joblib
 
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
 
 model = joblib.load(
-    "model/model.pkl"
+    os.path.join(
+        BASE_DIR,
+        "model",
+        "model.pkl"
+    )
 )
 
 vectorizer = joblib.load(
-    "model/vectorizer.pkl"
+    os.path.join(
+        BASE_DIR,
+        "model",
+        "vectorizer.pkl"
+    )
 )
 
 
@@ -26,24 +40,30 @@ def predict(drug1, drug2):
         model.predict_proba(vec)[0][1]
     )
 
-    if probability > 0.5:
+    if probability > 0.7:
 
-        return {
-            "result":
-                "Possible Interaction",
-            "confidence":
-                round(
-                    float(probability),
-                    2
-                )
-        }
+        risk = "High"
+
+    elif probability > 0.5:
+
+        risk = "Medium"
+
+    else:
+
+        risk = "Low"
 
     return {
         "result":
-            "No Strong Interaction",
+            "Possible Interaction"
+            if probability > 0.5
+            else "No Strong Interaction",
+
         "confidence":
             round(
                 float(probability),
-                2
-            )
+                3
+            ),
+
+        "risk":
+            risk
     }

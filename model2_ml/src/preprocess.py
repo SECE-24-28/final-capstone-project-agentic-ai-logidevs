@@ -1,9 +1,20 @@
 import pandas as pd
+import kagglehub
+import os
 
 
 def load_data():
 
-    df = pd.read_csv("data/train.csv")
+    path = kagglehub.dataset_download(
+        "mghobashy/drug-drug-interactions"
+    )
+
+    csv_file = os.path.join(
+        path,
+        "db_drug_interactions.csv"
+    )
+
+    df = pd.read_csv(csv_file)
 
     df.dropna(inplace=True)
 
@@ -13,9 +24,11 @@ def load_data():
 def create_features(df):
 
     df["text"] = (
-        df["drug1"]
+        df["Drug 1"].astype(str)
         + " "
-        + df["drug2"]
+        + df["Drug 2"].astype(str)
+        + " "
+        + df["Interaction Description"].astype(str)
     )
 
     return df
