@@ -1,0 +1,4022 @@
+drug_a,drug_b,label
+TAM,"1,25(OH)2D3",effect
+"1,25(OH)2D3",TAM,effect
+Vitamin D3,arsenate,mechanism
+acetaminophen,caffeine,effect
+acetaminophen,caffeine,effect
+Amprenavir,rifabutin,mechanism
+Amprenavir,25-O-desacetylrifabutin,mechanism
+Rifampin,amprenavir,mechanism
+Amprenavir,rifabutin,effect
+Rifampin,amprenavir,mechanism
+Amprenavir,rifabutin,mechanism
+Amprenavir,25-O-desacetylrifabutin,mechanism
+penicillins,probenecid,mechanism
+cephaloridine,probenecid,mechanism
+probenecid,cloxacillin,mechanism
+Cypermethrin,vitamin E,effect
+Cypermethrin,allopurinol,effect
+allopurinol,cypermethrin,effect
+Vitamin E,cypermethrin,effect
+cypermethrin,allopurinol,effect
+cypermethrin,Vitamin E,effect
+pentazocine,tripelennamine,effect
+tripelennamine,pentazocine,effect
+neurotensin,enkephalins,effect
+neurotensin,tuftsin,effect
+neurotensin,enkephalins,effect
+neurotensin,tuftsin,effect
+neurotensin,tuftsin,effect
+Diazepam,morphine,effect
+diazepam,metamizol,effect
+diazepam,indomethacin,effect
+Midazolam,morphine,effect
+Midazolam,metamizol,effect
+Midazolam,indomethacin,effect
+Echistatin,contortrostatin,effect
+Flavoridin,contortrostatin,effect
+Etofibrate,heparin,effect
+MPTP,pargyline,effect
+MPTP,amphetamine,effect
+MPTP,apomorphine,effect
+Methamphetamine,pargyline,effect
+prostaglandin F2alpha,oxytocin,int
+PGF2alpha,oxytocin,effect
+PGF2alpha,oxytocin,effect
+glycine,glutamate,effect
+glycine,glutamate,effect
+Sildenafil,long-acting nitrates,advise
+Sildenafil,short-acting nitrates,advise
+verapamil,bombesin,effect
+Verapamil,bombesin,effect
+trichlorfon,coumaphos,effect
+phenobarbital sodium,coumaphos,effect
+diltiazem,sirolimus,mechanism
+sirolimus,diltiazem,mechanism
+sirolimus,diltiazem,mechanism
+diltiazem,sirolimus,mechanism
+sirolimus,diltiazem,advise
+antidepressant drugs,hypoglycemic agents,int
+DCG-IV,PCP,effect
+Misonidazole,CCNU,effect
+Misonidazole,CCNU,effect
+Misonidazole,CCNU,mechanism
+CCNU,misonidazole,mechanism
+trovafloxacin,opiate,mechanism
+trovafloxacin,morphine,mechanism
+ciprofloxacin,opiate,mechanism
+ciprofloxacin,morphine,mechanism
+thiabendazole,melarsoprol,effect
+picrotoxin,diazepam,effect
+picrotoxin,phenazepam,effect
+picrotoxin,phenibut,effect
+picrotoxin,amizyl,effect
+picrotoxin,phentolamine,effect
+ofloxacin,KRM-1648,effect
+rifampicin,ofloxacin,effect
+rifabutin,ofloxacin,effect
+naloxone,beta-endorphin,effect
+naloxone,beta-endorphin,effect
+naloxone,morphine,effect
+naloxone,beta-endorphin,effect
+naloxone,morphine,effect
+ouabain,PTX,effect
+ouabain,phentolamine,effect
+ouabain,PTX,effect
+cobalt,iron,mechanism
+iron,cobalt,mechanism
+iron,cobalt,mechanism
+Fe,cobalt,mechanism
+iron,cobalt,mechanism
+(-)-NANM,morphine,effect
+(-)-NANM,naloxone,effect
+naloxone,(-)-NANM,effect
+naloxone,morphine,effect
+Haloperidol,(+)-NANM,effect
+Haloperidol,PCP,effect
+phenytoin,quetiapine,mechanism
+ketamine,halothane,int
+halothane,ketamine,mechanism
+ketamine,halothane,mechanism
+ketamine,halothane,effect
+estradiol,noradrenaline,effect
+estradiol,noradrenaline,effect
+Cytochalasin D,carbachol,effect
+Cytochalasin D,carbachol,effect
+lead,alcohol,effect
+ethanol,acetaldehyde,effect
+nitrate,sildenafil,effect
+4-methylpyrazole,"1,3-difluoro-2-propanol",effect
+4-methylpyrazole,"1,3-difluoro-2-propanol",effect
+ibogaine,morphine,effect
+ibogaine,nicotine,effect
+18-MC,morphine,effect
+18-MC,nicotine,effect
+ibogaine,cocaine,effect
+Ibogaine,morphine,effect
+18-MC,morphine,effect
+indinavir,didanosine,mechanism
+indinavir,didanosine,mechanism
+Indinavir,didanosine,advise
+METH,SCH-23390,effect
+InsP(3),RR,effect
+RR,InsP(3),effect
+theophylline,phenytoin,mechanism
+theophylline,phenytoin,mechanism
+phenytoin,theophylline,effect
+carbamazepine,tricyclic antidepressant,effect
+carbamazepine,tricyclic antidepressants,advise
+Dexamethasone,EGF,effect
+Dexamethasone,insulin,effect
+retinyl acetate,EGF,effect
+retinyl acetate,insulin,effect
+dexamethasone,EGF,effect
+dexamethasone,insulin,effect
+retinyl acetate,EGF,effect
+retinyl acetate,insulin,effect
+Dexamethasone,EGF,effect
+retinyl acetate,EGF,effect
+dexamethasone,EGF,effect
+retinyl acetate,EGF,effect
+retinyl acetate,insulin,effect
+dexamethasone,insulin,effect
+dexamethasone,EGF,effect
+retinyl acetate,insulin,effect
+retinyl acetate,EGF,effect
+glucocorticoids,insulin,effect
+glucocorticoids,EGF,effect
+retinoids,insulin,effect
+retinoids,EGF,effect
+cocaine,norepinephrine,effect
+desipramine,norepinephrine,effect
+gentamycin,atracurium,int
+atracurium,gentamycin,effect
+atracurium,gentamycin,effect
+atracurium,gentamycin,effect
+gentamycin,atracurium,effect
+estradiol,endotoxin,effect
+estradiol,endotoxin,mechanism
+estradiol,endotoxin,effect
+temazepam,ethanol,mechanism
+temazepam,ethanol,mechanism
+alcohol,"3-hydroxy-1,4-benzodiazepine",mechanism
+theophylline,CGS 21680,effect
+theophylline,CGS21680,effect
+Cholestyramine,fluvastatin,mechanism
+cholestyramine,fluvastatin,effect
+ADL 8-2698,morphine,effect
+ADL-8-2698,opioid,effect
+Morphine,ADL 8-2698,effect
+ADL 8-2698,morphine,effect
+cisplatin,sodium thiosulfate,effect
+Sodium thiosulfate,cisplatin,effect
+thiosulfate,cisplatin,mechanism
+fluoxetine,cisapride,mechanism
+Fluvoxamine,tolbutamide,mechanism
+fluvoxamine,tolbutamide,mechanism
+Acetaminophen,theophylline,mechanism
+Theophylline,acetaminophen,mechanism
+Valproic acid,phenobarbital,mechanism
+acetaminophen,theophylline,effect
+phenobarbital,acetaminophen,effect
+valproic acid,phenobarbital,effect
+99mTc-methylene diphosphonate,gentamicin,effect
+gentamicin,99mTc-MDP,mechanism
+Rifampin,warfarin,int
+warfarin,rifampin,int
+Rifampin,warfarin,mechanism
+rifampin,warfarin,mechanism
+rifampin,warfarin,mechanism
+rifampin,warfarin,mechanism
+rifampin,warfarin,effect
+perchlorate,pertechnetate,mechanism
+Amiodarone,digoxin,mechanism
+amiodarone,digoxin,mechanism
+digoxin,amiodarone,mechanism
+Azithromycin,zidovudine,mechanism
+Azithromycin,zidovudine,mechanism
+cimetidine,verografine,mechanism
+cimetidine,iodamide,mechanism
+neomycin,ACTH,effect
+antiretroviral,antineoplastic drugs,advise
+ketamine,ouabain,effect
+Innovar Vet,ouabain,effect
+pentobarbital,ouabain,effect
+ouabain,Innovar,effect
+ouabain,ketamine,effect
+ouabain,droperidol,effect
+GL,antibiotics,effect
+GL,cefazolin,effect
+Loperamide,dmPGE2,effect
+morphine,dmPGE2,effect
+N-methyllevallorphan,loperamide,effect
+N-methyllevallorphan,morphine,effect
+warfarin,sedatives,int
+Barbiturates,coumarin drugs,advise
+glutethimide,coumarin drugs,advise
+Chloral hydrate,anticoagulant agents,int
+methaqualone,anticoagulant agents,int
+Buforin II,azithromycin,effect
+Buforin II,minocycline,effect
+ethanol,disulfiram,effect
+clindamycin,gentamicin,int
+clindamycin,gentamicin,effect
+clindamycin,gentamicin,effect
+Physostigmine,alcohol,effect
+Physostigmine,alcohol,effect
+simvastatin,clarithromycin,effect
+Clarithromycin,simvastatin,mechanism
+macrolide antibiotics,hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors,effect
+Macrolide antibiotics,atorvastatin,mechanism
+Macrolide antibiotics,cerivastatin,mechanism
+Macrolide antibiotics,lovastatin,mechanism
+Macrolide antibiotics,simvastatin,mechanism
+irbesartan,aliskiren,mechanism
+atorvastatin,aliskiren,mechanism
+ketoconazole,aliskiren,mechanism
+aliskiren,furosemide,mechanism
+nitric oxide donor compounds,INOmax,effect
+sodium nitroprusside,INOmax,effect
+nitroglycerin,INOmax,effect
+Chloramphenicol,penicillins,effect
+erythromycins,penicillins,effect
+sulfonamides,penicillins,effect
+tetracyclines,penicillins,effect
+Probenecid,ampicillin,mechanism
+amantadine,central nervous system stimulants,advise
+ketoconazole,budesonide,mechanism
+ketoconazole,budesonide,advise
+intraconazole,budesonide,advise
+ritonavir,budesonide,advise
+indinavir,budesonide,advise
+saquinavir,budesonide,advise
+erythromycin,budesonide,advise
+xanthine bronchodilators,sympathomimetic bronchodilators,effect
+theophylline,sympathomimetic bronchodilators,effect
+ephedrine,sympathomimetic bronchodilators,effect
+dyphylline,probenecid,mechanism
+EQUETROTM,Acetazolamide,mechanism
+EQUETROTM,azole antifungals,mechanism
+EQUETROTM,cimetidine,mechanism
+EQUETROTM,clarithromycin,mechanism
+EQUETROTM,dalfopristin,mechanism
+EQUETROTM,danazol,mechanism
+EQUETROTM,delavirdine,mechanism
+EQUETROTM,diltiazem,mechanism
+EQUETROTM,erythromycin,mechanism
+EQUETROTM,fluoxetine,mechanism
+EQUETROTM,fluvoxamine,mechanism
+EQUETROTM,isoniazid,mechanism
+EQUETROTM,itraconazole,mechanism
+EQUETROTM,ketoconazole,mechanism
+EQUETROTM,loratadine,mechanism
+EQUETROTM,nefazodone,mechanism
+EQUETROTM,niacinamide,mechanism
+EQUETROTM,nicotinamide,mechanism
+EQUETROTM,protease inhibitors,mechanism
+EQUETROTM,propoxyphene,mechanism
+EQUETROTM,quinine,mechanism
+EQUETROTM,quinupristin,mechanism
+EQUETROTM,troleandomycin,mechanism
+EQUETROTM,valproate,mechanism
+EQUETROTM,verapamil,mechanism
+EQUETROTM,zileuton,mechanism
+EQUETROTM,Cisplatin,mechanism
+EQUETROTM,doxorubicin HCL,mechanism
+EQUETROTM,felbamate,mechanism
+EQUETROTM,rifampin,mechanism
+EQUETROTM,phenobarbital,mechanism
+EQUETROTM,Phenytoin,mechanism
+EQUETROTM,primidone,mechanism
+EQUETROTM,methsuximide,mechanism
+EQUETROTM,theophylline,mechanism
+EQUETROTM,Acetaminophen,mechanism
+EQUETROTM,alprazolam,mechanism
+EQUETROTM,amitriptyline,mechanism
+EQUETROTM,bupropion,mechanism
+EQUETROTM,buspirone,mechanism
+EQUETROTM,citalopram,mechanism
+EQUETROTM,clobazam,mechanism
+EQUETROTM,clonazepam,mechanism
+EQUETROTM,clozapine,mechanism
+EQUETROTM,cyclosporin,mechanism
+EQUETROTM,delavirdine,mechanism
+EQUETROTM,desipramine,mechanism
+EQUETROTM,diazepam,mechanism
+EQUETROTM,dicumarol,mechanism
+EQUETROTM,doxycycline,mechanism
+EQUETROTM,ethosuximide,mechanism
+EQUETROTM,felbamate,mechanism
+EQUETROTM,felodipine,mechanism
+EQUETROTM,glucocorticoids,mechanism
+EQUETROTM,haloperidol,mechanism
+EQUETROTM,itraconazole,mechanism
+EQUETROTM,lamotrigine,mechanism
+EQUETROTM,levothyroxine,mechanism
+EQUETROTM,lorazepam,mechanism
+EQUETROTM,methadone,mechanism
+EQUETROTM,midazolam,mechanism
+EQUETROTM,mirtazapine,mechanism
+EQUETROTM,nortriptyline,mechanism
+EQUETROTM,olanzapine,mechanism
+EQUETROTM,contraceptives,mechanism
+EQUETROTM,oxcarbazepine,mechanism
+EQUETROTM,Phenytoin,mechanism
+EQUETROTM,praziquantel,mechanism
+EQUETROTM,protease inhibitors,mechanism
+EQUETROTM,quetiapine,mechanism
+EQUETROTM,risperidone,mechanism
+EQUETROTM,theophylline,mechanism
+EQUETROTM,topiramate,mechanism
+EQUETROTM,tiagabine,mechanism
+EQUETROTM,tramadol,mechanism
+EQUETROTM,triazolam,mechanism
+EQUETROTM,valproate,mechanism
+EQUETROTM,warfarin,mechanism
+EQUETROTM,ziprasidone,mechanism
+EQUETROTM,zonisamide,mechanism
+EQUETROTM,Clomipramine HCl,mechanism
+EQUETROTM,Phenytoin,mechanism
+EQUETROTM,primidone,mechanism
+carbamazepine,lithium,effect
+anti-malarial drugs,carbamazepine,effect
+chloroquine,carbamazepine,effect
+mefloquine,carbamazepine,effect
+EQUETROTM,centrally acting drugs,advise
+EQUETROTM,alcohol,advise
+neomycin,penicillin V,mechanism
+neomycin,vitamin B-12,mechanism
+neomycin,methotrexate,mechanism
+neomycin,5-fluorouracil,mechanism
+neomycin sulfate,coumarin,effect
+neomycin sulfate,anticoagulants,effect
+Bentiromide,acetaminophen,int
+Bentiromide,Tylenol,int
+Bentiromide,chloramphenicol,int
+Bentiromide,Chloromycetin,int
+Bentiromide,anesthetics,int
+Bentiromide,benzocaine,int
+Bentiromide,lidocaine,int
+Bentiromide,para-aminobenzoic acid,int
+Bentiromide,PABA,int
+Bentiromide,multivitamins,int
+Bentiromide,procainamide,int
+Bentiromide,Pronestyl,int
+Bentiromide,sulfonamides,int
+Bentiromide,thiazide diuretics,int
+Nicotinic acid,ganglionic blocking agents,effect
+aspirin,nicotinic acid,mechanism
+steroids,aspirin,effect
+Barbiturates,fludrocortisone acetate,mechanism
+phenytoin,fludrocortisone acetate,mechanism
+rifampin,fludrocortisone acetate,mechanism
+apomorphine,ondansetron,effect
+apomorphine,5HT3 antagonist class,advise
+apomorphine,ondansetron,advise
+apomorphine,granisetron,advise
+apomorphine,dolasetron,advise
+apomorphine,palonosetron,advise
+apomorphine,alosetron,advise
+antihypertensive medications,vasodilators,effect
+dopamine antagonists,metoclopramide,effect
+phenothiazines,APOKYN,effect
+butyrophenones,APOKYN,effect
+thioxanthenes,APOKYN,effect
+metoclopramide,APOKYN,effect
+neuroleptics,dopamine agonists,advise
+aspirin,fenoprofen,mechanism
+fenoprofen,aspirin,mechanism
+aspirin,Nalfon,mechanism
+Nalfon,salicylates,advise
+phenobarbital,fenoprofen,mechanism
+phenobarbital,Nalfon,advise
+coumarin-type anticoagulants,Nalfon,effect
+Nalfon,loop diuretics,effect
+Nalfon,steroid,advise
+anticholinergic,narcotic analgesics,effect
+anticholinergic,meperidine,effect
+anticholinergic,phenothiazines,effect
+anticholinergic,antipsychotics,effect
+anticholinergic,tricyclic antidepressants,effect
+anticholinergic,antiarrhythmics,effect
+anticholinergic,quinidine,effect
+anticholinergic,antihistamines,effect
+AKINETON,narcotic analgesics,effect
+AKINETON,meperidine,effect
+AKINETON,phenothiazines,effect
+AKINETON,antipsychotics,effect
+AKINETON,tricyclic antidepressants,effect
+AKINETON,antiarrhythmics,effect
+AKINETON,quinidine,effect
+AKINETON,antihistamines,effect
+atropine,pralidoxime,effect
+pralidoxime,atropine,effect
+atropine,pralidoxime,advise
+barbiturates,anticholinesterases,advise
+Flupenthixol,Monoamine oxidase inhibitors,int
+Flupenthixol,MAOI,int
+MAOI,flupenthixol,effect
+Flupenthixol,Ethanol,effect
+Flupenthixol,Tricyclic antidepressants,effect
+Potassium-depleting diuretics,digitalis,effect
+Quinidine,digoxin,mechanism
+verapamil,digoxin,mechanism
+amiodarone,digoxin,mechanism
+propafenone,digoxin,mechanism
+indomethacin,digoxin,mechanism
+itraconazole,digoxin,mechanism
+alprazolam,digoxin,mechanism
+spironolactone,digoxin,mechanism
+Erythromycin,digoxin,mechanism
+clarithromycin,digoxin,mechanism
+macrolide antibiotics,digoxin,mechanism
+tetracycline,digoxin,mechanism
+Propantheline,digoxin,mechanism
+diphenoxylate,digoxin,mechanism
+Antacids,digoxin,mechanism
+kaolin,digoxin,mechanism
+sulfasalazine,digoxin,mechanism
+neomycin,digoxin,mechanism
+cholestyramine,digoxin,mechanism
+metoclopramide,digoxin,mechanism
+Rifampin,digoxin,mechanism
+Thyroid,digoxin,advise
+digoxin,sympathomimetics,effect
+beta-adrenergic blockers,digoxin,effect
+calcium channel blockers,digoxin,effect
+ABILIFY,centrally acting drugs,advise
+ABILIFY,alcohol,advise
+aripiprazole,antihypertensive agents,effect
+carbamazepine,aripiprazole,mechanism
+ketoconazole,aripiprazole,mechanism
+quinidine,aripiprazole,mechanism
+fluoxetine,aripiprazole,mechanism
+paroxetine,aripiprazole,mechanism
+ketoconazole,aripiprazole,mechanism
+ketoconazole,aripiprazole,advise
+aripiprazole,quinidine,mechanism
+quinidine,aripiprazole,advise
+carbamazepine,aripiprazole,mechanism
+carbamazepine,aripiprazole,advise
+carbamazepine,aripiprazole,advise
+alcohol,ABILIFY,advise
+etidronate,warfarin,effect
+tamoxifen,anastrozole,advise
+anastrozole,tamoxifen,mechanism
+Estrogen,ARIMIDEX,advise
+amyl nitrite,alcohol,effect
+Isocarboxazid,Antabuse,advise
+Isocarboxazid,disulfiram,advise
+MAO inhibitor,disulfiram,effect
+Isocarboxazid,psychotropic agents,advise
+Panretin,DEET,advise
+Panretin,N-diethyl-m-toluamide,advise
+magnesium trisilicate,nitrofurantoin,mechanism
+nitrofurantoin,magnesium trisilicate,mechanism
+Uricosuric drugs,nitrofurantoin,mechanism
+probenecid,nitrofurantoin,mechanism
+sulfinpyrazone,nitrofurantoin,mechanism
+Aminosalicylic acid,digoxin,mechanism
+Aminosalicylic acid,Lanoxin,mechanism
+digoxin,aminosalicylic acid,advise
+Aminosalicylic acid,vitamin B12,mechanism
+vitamin B12,aminosalicylic acid,advise
+antibiotics,anticholinesterase,advise
+Factrel,phenothiazines,effect
+Factrel,dopamine antagonists,effect
+ciclesonide,ketoconazole,mechanism
+ketoconazole,ciclesonide,advise
+acetaminophen,Isoniazid,effect
+isoniazid,acetaminophen,effect
+isoniazid,acetaminophen,mechanism
+Isoniazid,carbamazepine,mechanism
+Carbamazepine,isoniazid,advise
+Ketoconazole,Isoniazid,int
+Isoniazid,phenytoin,mechanism
+isoniazid,theophylline,mechanism
+valproate,isoniazid,mechanism
+isoniazid,valproate,advise
+ELLENCE,calcium channel blockers,advise
+Cimetidine,epirubicin,mechanism
+Cimetidine,ELLENCE,advise
+dorzolamide,carbonic anhydrase inhibitors,effect
+L-histidine,medroxyprogesterone acetate,effect
+L-histidine,H1,effect
+L-histidine,H2 blockers,effect
+FLOLAN,diuretics,effect
+FLOLAN,antihypertensive agents,effect
+FLOLAN,vasodilators,effect
+antiplatelet agents,FLOLAN,effect
+anticoagulants,FLOLAN,effect
+furosemide,FLOLAN,mechanism
+digoxin,FLOLAN,mechanism
+digoxin,FLOLAN,mechanism
+diethylpropion,antihypertensive drugs,int
+diethylpropion,guanethidine,int
+diethylpropion,a-methyldopa,int
+phenothiazines,diethylpropion,effect
+Catecholamine-depleting drugs,beta-blocking agents,effect
+reserpine,beta-blocking agents,effect
+acebutolol,catecholamine depletors,advise
+beta-adrenergic antagonists,alpha-adrenergic stimulants,effect
+beta-adrenoceptor blocking agents,nonsteroidal anti-inflammatory drugs,effect
+clonazepam,propantheline,mechanism
+clonazepam,propantheline,mechanism
+phenytoin,clonazepam,mechanism
+carbamazepine,clonazepam,mechanism
+phenobarbital,clonazepam,mechanism
+antifungal agents,clonazepam,advise
+benzodiazepine class,alcohol,effect
+benzodiazepine class,narcotics,effect
+benzodiazepine class,barbiturates,effect
+benzodiazepine class,nonbarbiturate hypnotics,effect
+benzodiazepine class,antianxiety agents,effect
+benzodiazepine class,phenothiazines,effect
+benzodiazepine class,thioxanthene,effect
+benzodiazepine class,butyrophenone classes of antipsychotic agents,effect
+benzodiazepine class,monoamine oxidase inhibitors,effect
+benzodiazepine class,tricyclic antidepressants,effect
+benzodiazepine class,anticonvulsant drugs,effect
+quinolones,theophylline,mechanism
+quinolones,caffeine,mechanism
+quinolones,warfarin,effect
+quinolones,cyclosporine,effect
+bosentan,Ortho-Novum,mechanism
+hormonal contraceptives,TRACLEER,effect
+bosentan,cyclosporine A,mechanism
+bosentan,cyclosporine A,advise
+bosentan,cyclosporine A,mechanism
+tacrolimus,bosentan,mechanism
+tacrolimus,bosentan,advise
+TRACLEER,glyburide,advise
+bosentan,glyburide,mechanism
+Bosentan,hypoglycemic agents,mechanism
+bosentan,ketoconazole,mechanism
+bosentan,simvastatin,mechanism
+Bosentan,statins,mechanism
+Bosentan,lovastatin,mechanism
+Bosentan,atorvastatin,mechanism
+statins,TRACLEER,advise
+bosentan,S-warfarin,mechanism
+bosentan,R-warfarin,mechanism
+clorazepate dipotassium,hexobarbital,effect
+clorazepate dipotassium,ethyl alcohol,effect
+clorazepate dipotassium,chlorpromazine,effect
+benzodiazepines,barbiturates,effect
+benzodiazepines,narcotics,effect
+benzodiazepines,phenothiazines,effect
+benzodiazepines,monoamine oxidase inhibitors,effect
+benzodiazepines,antidepressants,effect
+linezolid,adrenergic,int
+linezolid,serotonergic agents,int
+ZYVOX,sympathomimetic agents,effect
+ZYVOX,vasopressor,effect
+ZYVOX,dopaminergic agents,effect
+ZYVOX,serotonergic agents,effect
+ZYVOX,antidepressants,effect
+ZYVOX,selective serotonin reuptake inhibitors,effect
+ZYVOX,SSRIs,effect
+ZYVOX,serotonergic agents,effect
+ZYVOX,serotonergic agents,advise
+ibuprofen,coumarin-type anticoagulants,effect
+nonsteroidal anti-inflammatory agents,coumarin-type anticoagulants,effect
+ibuprofen,anticoagulants,advise
+aspirin,nonsteroidal anti-inflammatory agents,effect
+aspirin,ibuprofen,effect
+Ibuprofen,methotrexate,mechanism
+nonsteroidal anti-inflammatory drugs,methotrexate,mechanism
+ibuprofen,methotrexate,effect
+ibuprofen,methotrexate,advise
+ibuprofen,furosemide,effect
+ibuprofen,thiazides,effect
+Ibuprofen,lithium,mechanism
+ibuprofen,lithium,advise
+Antizol,ethanol,mechanism
+ethanol,Antizol,mechanism
+Antizol,phenytoin,mechanism
+Antizol,carbamazepine,mechanism
+Antizol,cimetidine,mechanism
+Antizol,ketoconazole,mechanism
+Levo-Dromoran,central nervous system depressants,effect
+Levo-Dromoran,alcohol,effect
+Levo-Dromoran,sedatives,effect
+Levo-Dromoran,hypnotics,effect
+Levo-Dromoran,opioids,effect
+Levo-Dromoran,anesthetics,effect
+Levo-Dromoran,barbiturates,effect
+Levo-Dromoran,tricyclic antidepressants,effect
+Levo-Dromoran,phenothiazines,effect
+Levo-Dromoran,tranquilizers,effect
+Levo-Dromoran,skeletal muscle relaxants,effect
+Levo-Dromoran,antihistamines,effect
+Levo-Dromoran,MAO inhibitors,advise
+Agonist/antagonist analgesics,Levo-Dromoran,advise
+pentazocine,Levo-Dromoran,advise
+nalbuphine,Levo-Dromoran,advise
+butorphanol,Levo-Dromoran,advise
+dezocine,Levo-Dromoran,advise
+buprenorphine,Levo-Dromoran,advise
+pure agonist opioid analgesic,Levo-Dromoran,advise
+phenytoin,Norpace,mechanism
+phenytoin,Norpace CR,mechanism
+Norpace,quinidine,mechanism
+disopyramide phosphate,erythromycin,mechanism
+disopyramide,verapamil,advise
+reserpine,beta-blocking,effect
+beta-blockers,clonidine,advise
+beta-blocker,clonidine,advise
+calcium antagonists,beta-adrenergic blocking agents,advise
+beta-adrenergic blocking agents,calcium antagonist,effect
+beta-blockers,epinephrine,effect
+carbamazepine,SUPRAX,mechanism
+Warfarin,cefixime,effect
+Anticoagulants,cefixime,effect
+sympathomimetic amines,monoamine oxidase inhibitors,effect
+DIDREX,CNS stimulants,advise
+Amphetamines,antihypertensives,effect
+Amphetamines,tricyclic antidepressants,effect
+Urinary acidifying,amphetamines,mechanism
+dapsone,folic acid antagonists,effect
+dapsone,pyrimethamine,effect
+PEGANONE,Phenurone,advise
+PEGANONE,phenacemide,advise
+hydantoin antiepileptic,phenytoin,int
+hydantoin antiepileptic,coumarin anticoagulant,int
+phenytoin,coumarin,mechanism
+phenytoin,coumarin anticoagulants,mechanism
+coumarin anticoagulants,phenytoin,mechanism
+PEGANONE,coumarin anticoagulants,advise
+lansoprazole,theophylline,mechanism
+theophylline,lansoprazole,advise
+proton pump inhibitors,sucralfate,mechanism
+proton pump inhibitors,sucralfate,advise
+lansoprazole,ketoconazole,mechanism
+lansoprazole,ampicillin,mechanism
+lansoprazole,iron,mechanism
+lansoprazole,digoxin,mechanism
+baclofen,morphine,effect
+doxylamine,CNS depressant drugs,effect
+Antihistamines,heparin,effect
+Antihistamines,warfarin,effect
+Doxylamine,epinephrine,effect
+phenobarbital,efavirenz,mechanism
+rifampin,efavirenz,mechanism
+rifabutin,efavirenz,mechanism
+SUSTIVA,clarithromycin,effect
+indinavir,SUSTIVA,mechanism
+indinavir,SUSTIVA,mechanism
+lopinavir,SUSTIVA,advise
+ritonavir,SUSTIVA,advise
+efavirenz,contraceptives,advise
+SUSTIVA,ritonavir,advise
+anticonvulsant,efavirenz,mechanism
+SUSTIVA,itraconazole,mechanism
+SUSTIVA,ketoconazole,mechanism
+Cholestyramine,fat soluble vitamins,mechanism
+phenytoin,calcitriol,mechanism
+phenobarbital,calcitriol,mechanism
+thiazides,vitamin D,effect
+Vitamin D,digitalis,advise
+Ketoconazole,vitamin D,mechanism
+vitamin D analogues,corticosteroids,mechanism
+Magnesium,vitamin D,advise
+antacids,vitamin D,advise
+theophylline,quinolone,mechanism
+quinolones,theophylline,effect
+Quinolones,caffeine,mechanism
+Quinolones,warfarin,effect
+nalidixic acid,warfarin,effect
+Nitrofurantoin,nalidixic acid,effect
+Videx,quinolones,mechanism
+Didanosine,quinolones,mechanism
+quinolones,cyclosporine,mechanism
+Zalcitabine,ZDV,effect
+lamivudine,zalcitabine,effect
+Zalcitabine,lamivudine,effect
+zalcitabine,lamivudine,effect
+zalcitabine,lamivudine,advise
+HIVID,didanosine,advise
+pentamidine,HIVID,effect
+pentamidine,HIVID,advise
+amphotericin,HIVID,effect
+amphotericin,zalcitabine,mechanism
+foscarnet,HIVID,effect
+foscarnet,zalcitabine,mechanism
+aminoglycosides,HIVID,effect
+aminoglycosides,zalcitabine,mechanism
+probenecid,zalcitabine,mechanism
+cimetidine,zalcitabine,mechanism
+zalcitabine,magnesium,advise
+zalcitabine,aluminum,advise
+zalcitabine,antacids,advise
+zalcitabine,metoclopramide,mechanism
+Doxorubicin,zalcitabine,effect
+proton pump inhibitors,warfarin,effect
+esomeprazole,diazepam,mechanism
+esomeprazole,ketoconazole,mechanism
+esomeprazole,iron,mechanism
+esomeprazole,digoxin,mechanism
+clarithromycin,pimozide,advise
+EPA,aspirin,int
+EPA,non-steroidal anti-inflammatory drugs,int
+EPA,ginkgo,int
+EPA,Ginkgo biloba,int
+NSAIDs,aspirin,advise
+Ponstel,aspirin,advise
+NSAIDs,methotrexate,mechanism
+NSAIDs,methotrexate,advise
+NSAIDs,ACE inhibitors,effect
+NSAIDs,ACE inhibitors,advise
+NSAIDs,furosemide,effect
+NSAIDs,thiazides,effect
+Ponstel,furosemide,advise
+NSAIDs,lithium,mechanism
+NSAIDs,lithium,mechanism
+NSAIDs,lithium,advise
+warfarin,NSAIDs,effect
+magnesium hydroxide,mefenamic acid,mechanism
+Cyclopentolate,carbachol,effect
+Cyclopentolate,pilocarpine,effect
+Anticoagulants,ardeparin,effect
+platelet aggregation inhibitors,ardeparin,effect
+nonsteroidal anti-inflammatory drugs,ardeparin,effect
+NSAIDs,ardeparin,effect
+aspirin,ardeparin,effect
+HEXALEN,antidepressants of the MAO inhibitor class,effect
+Cimetidine,altretamine,mechanism
+HEXALEN,cisplatin,effect
+pyridoxine,HEXALEN,advise
+pyridoxine,cisplatin,advise
+Folic acid,phenobarbital,effect
+Folic acid,phenytoin,effect
+Folic acid,primidone,effect
+leucovorin,methotrexate,effect
+Leucovorin,5-fluorouracil,effect
+levetiracetam,AEDs,mechanism
+Aminoglutethimide,corticosteroids,effect
+corticosteroids,amphotericin B,advise
+corticosteroids,diuretics,advise
+amphotericin B,hydrocortisone,effect
+Macrolide antibiotics,corticosteroid,mechanism
+anticholinesterase agents,corticosteroids,effect
+anticholinesterase agents,corticosteroid,advise
+corticosteroids,warfarin,effect
+corticosteroids,antidiabetic agents,effect
+Cholestyramine,corticosteroids,mechanism
+cyclosporine,corticosteroids,effect
+Ephedrine,corticosteroids,mechanism
+Estrogens,corticosteroids,mechanism
+barbiturates,corticosteroids,mechanism
+phenytoin,corticosteroids,mechanism
+carbamazepine,corticosteroids,mechanism
+rifampin,corticosteroids,mechanism
+ketoconazole,corticosteroids,mechanism
+macrolide antibiotics,corticosteroids,mechanism
+erythromycin,corticosteroids,mechanism
+Ketoconazole,corticosteroids,mechanism
+ketoconazole,corticosteroid,effect
+aspirin,corticosteroids,effect
+nonsteroidal antiinflammatory agents,corticosteroids,effect
+Aspirin,corticosteroids,advise
+salicylates,corticosteroids,mechanism
+phenytoin,dexamethasone,mechanism
+corticosteroid,live,effect
+corticosteroid,inactivated vaccines,effect
+Corticosteroids,live attenuated vaccines,effect
+vaccines,corticosteroid,advise
+FACTIVE,calcium carbonate,mechanism
+FACTIVE,cimetidine,mechanism
+FACTIVE,omeprazole,mechanism
+FACTIVE,estrogen,mechanism
+FACTIVE,progesterone,mechanism
+FACTIVE,contraceptive,mechanism
+FACTIVE,probenecid,mechanism
+quinolones,warfarin,effect
+quinolone antimicrobial,warfarin,advise
+gemifloxacin,aluminum,mechanism
+gemifloxacin,magnesium,mechanism
+Magnesium,FACTIVE,advise
+aluminum,FACTIVE,advise
+ferrous sulfate,FACTIVE,advise
+iron,FACTIVE,advise
+multivitamin preparations,FACTIVE,advise
+zinc,FACTIVE,advise
+Videx,FACTIVE,advise
+didanosine,FACTIVE,advise
+Sucralfate,FACTIVE,advise
+Digoxin,Adenocard,effect
+verapamil,Adenocard,effect
+Adenocard,digitalis,effect
+adenosine,methylxanthines,effect
+adenosine,caffeine,effect
+adenosine,theophylline,effect
+methylxanthines,adenosine,advise
+methylxanthines,adenosine,advise
+Adenosine,dipyridamole,effect
+adenosine,dipyridamole,effect
+adenosine,carbamazepine,effect
+phenytoin,alcohol,mechanism
+phenytoin,amiodarone,mechanism
+phenytoin,chlordiazepoxide,mechanism
+phenytoin,cimetidine,mechanism
+phenytoin,diazepam,mechanism
+phenytoin,dicumarol,mechanism
+phenytoin,disulfiram,mechanism
+phenytoin,estrogens,mechanism
+phenytoin,ethosuximide,mechanism
+phenytoin,fluoxetine,mechanism
+phenytoin,H2-antagonists,mechanism
+phenytoin,halothane,mechanism
+phenytoin,isoniazid,mechanism
+phenytoin,methylphenidate,mechanism
+phenytoin,phenothiazines,mechanism
+phenytoin,phenylbutazone,mechanism
+phenytoin,salicylates,mechanism
+phenytoin,succinimides,mechanism
+phenytoin,sulfonamides,mechanism
+phenytoin,tolbutamide,mechanism
+phenytoin,trazodone,mechanism
+phenytoin,carbamazepine,mechanism
+phenytoin,alcohol,mechanism
+phenytoin,reserpine,mechanism
+phenytoin,phenobarbital,mechanism
+phenytoin,sodium valproate,mechanism
+phenytoin,phenobarbital,effect
+phenytoin,valproic acid,effect
+phenytoin,valproate,effect
+tricyclic antidepressants,Cerebyx,effect
+phenytoin,anticoagulants,effect
+phenytoin,corticosteroids,effect
+phenytoin,coumarin,effect
+phenytoin,digitoxin,effect
+phenytoin,doxycycline,effect
+phenytoin,estrogens,effect
+phenytoin,furosemide,effect
+phenytoin,contraceptives,effect
+phenytoin,rifampin,effect
+phenytoin,quinidine,effect
+phenytoin,theophylline,effect
+phenytoin,vitamin D,effect
+amiloride,angiotensin-converting enzyme inhibitor,effect
+Lithium,diuretics,advise
+non-steroidal anti-inflammatory agent,loop,effect
+non-steroidal anti-inflammatory agent,potassium-sparing,effect
+non-steroidal anti-inflammatory agent,thiazide diuretics,effect
+MIDAMOR,non-steroidal anti-inflammatory agents,advise
+indomethacin,potassium-sparing diuretics,effect
+indomethacin,MIDAMOR,effect
+Cimetidine,nicardipine HCl,mechanism
+calcium blockers,digitalis preparations,mechanism
+digoxin,nicardipine HCl,advise
+cyclosporine,nicardipine,advise
+L-arginine,cyclosporin,effect
+L-arginine,ibuprofen,mechanism
+L-arginine,nitrates,effect
+L-arginine,sildenafil citrate,effect
+theophylline,cetirizine,mechanism
+cetirizine,theophylline,mechanism
+L-tyrosine,MAO inhibitors,effect
+Aspirin,probenecid,effect
+Aspirin,sulfinpyrazone,effect
+Aspirin,phenylbutazone,effect
+Alcohol,aspirin,effect
+Corticosteroids,aspirin,effect
+Pyrazolone Derivatives,aspirin,effect
+phenylbutazone,aspirin,effect
+oxyphenbutazone,aspirin,effect
+dipyrone,aspirin,effect
+Aspirin,nonsteroidal anti-inflammatory,advise
+Phenobarbital,aspirin,mechanism
+phenytoin,aspirin,effect
+Propranolol,aspirins,effect
+Aspirin,antacids,advise
+PAH,sulfonamides,effect
+PAH,procaine,effect
+PAH,thiazolesulfone,effect
+Probenecid,PAH,mechanism
+probenecid,PAH,effect
+aminoglycoside antibiotics,cephalosporin antibiotics,effect
+probenecid,cefprozil,mechanism
+VIRACEPT,Antiarrhythmics,advise
+VIRACEPT,amiodarone,advise
+VIRACEPT,quinidine,advise
+VIRACEPT,Antihistamines,advise
+VIRACEPT,astemizole,advise
+VIRACEPT,terfenadine,advise
+VIRACEPT,ergot derivatives,advise
+VIRACEPT,Antimycobacterial agents,advise
+VIRACEPT,rifampin,advise
+VIRACEPT,Benzodiazepines,advise
+VIRACEPT,midazolam,advise
+VIRACEPT,triazolam,advise
+VIRACEPT,cisapride,advise
+VIRACEPT,Antimycobacterial agents,advise
+VIRACEPT,rifabutin,advise
+VIRACEPT,terfenadine,advise
+VIRACEPT,astemizole,advise
+indinavir,VIRACEPT,mechanism
+ritonavir,VIRACEPT,mechanism
+saquinavir,VIRACEPT,mechanism
+ketoconazole,VIRACEPT,mechanism
+nelfinavir,didanosine,advise
+zidovudine,VIRACEPT,advise
+rifabutin,VIRACEPT,mechanism
+rifabutin,VIRACEPT,advise
+rifampin,VIRACEPT,mechanism
+VIRACEPT,rifampin,advise
+VIRACEPT,OVCON-35,mechanism
+Chlorprothixene,lithium,mechanism
+chlorprothixene,opioids,advise
+chlorprothixene,opioids,effect
+chlorprothixene,tramadol,advise
+chlorprothixene,Ultram,advise
+chlorprothixene,benzodiazepines,effect
+chlorprothixene,barbituates,effect
+chlorprothixene,anticholinergic drugs,advise
+chlorprothixene,tricyclic antidepressants,advise
+chlorprothixene,antiparkinsonian agents,advise
+codeine,alcohol,effect
+codeine,antihistamines,effect
+codeine,psychotropics,effect
+dextromethorphan,monoamine oxidase inhibitors,effect
+dextromethorphan,MAOIs,effect
+dextromethorphan hydrobromide,alcohol,effect
+dextromethorphan hydrobromide,antihistamines,effect
+dextromethorphan hydrobromide,psychotropics,effect
+Lamivudine,zalcitabine,effect
+lamivudine,zalcitabine,advise
+HUMORSOL,succinylcholine,int
+HUMORSOL,anticholinesterase agents,int
+narcotic analgesics,hydrocodone,effect
+antipsychotics,hydrocodone,effect
+antianxiety agents,hydrocodone,effect
+CNS depressants,hydrocodone,effect
+alcohol,hydrocodone,effect
+MAO inhibitors,hydrocodone,effect
+tricyclic antidepressants,hydrocodone,effect
+anticholinergics,hydrocodone,effect
+colestipol hydrochloride,propranolol,mechanism
+propranolol,COLESTID,advise
+chlorothiazide,colestipol hydrochloride,mechanism
+tetracycline,colestipol hydrochloride,mechanism
+furosemide,colestipol hydrochloride,mechanism
+penicillin G,colestipol hydrochloride,mechanism
+hydrochlorothiazide,colestipol hydrochloride,mechanism
+gemfibrozil,colestipol hydrochloride,mechanism
+digitalis preparations,colestipol hydrochloride,effect
+colestipol hydrochloride,digoxin,mechanism
+colestipol hydrochloride,digitoxin,mechanism
+Bile acid binding resins,phosphate,mechanism
+Bile acid binding resins,hydrocortisone,mechanism
+serotonin reuptake inhibitor drug,monoamine oxidase inhibitors,effect
+serotonin reuptake inhibitor drug,MAOI,effect
+Fluvoxamine,MAOIs,advise
+Fluvoxamine,MAOI,advise
+Fluvoxamine,MAOI,advise
+Terfenadine,ketoconazole,mechanism
+astemizole,ketoconazole,mechanism
+cisapride,ketoconazole,mechanism
+fluvoxamine,alprazolam,int
+fluvoxamine,terbinafine,advise
+fluvoxamine,astemizole,advise
+fluvoxamine,cisapride,advise
+Benzodiazepines,fluvoxamine,mechanism
+alprazolam,fluvoxamine,mechanism
+midazolam,fluvoxamine,mechanism
+triazolam,fluvoxamine,mechanism
+fluvoxamine maleate,alprazolam,mechanism
+alprazolam,Fluvoxamine,advise
+Fluvoxamine,diazepam,advise
+fluvoxamine,diazepam,mechanism
+fluvoxamine,N-desmethyldiazepam,mechanism
+fluvoxamine,diazepam,advise
+alprazolam,fluvoxamine,effect
+diazepam,fluvoxamine,advise
+theophylline,fluvoxamine maleate,advise
+fluvoxamine maleate,warfarin,mechanism
+anticoagulants,Fluvoxamine,advise
+nabumetone,warfarin,advise
+warfarin,NSAIDs,int
+Flurbiprofen,anti-coagulants,effect
+nonsteroidal anti-inflammatory drugs,anti-coagulants,effect
+flurbiprofen,anticoagulants,advise
+aspirin,flurbiprofen,mechanism
+flurbiprofen,aspirin,advise
+Flurbiprofen,propranolol,effect
+Flurbiprofen,propranolol,int
+flurbiprofen,beta-blocker,advise
+flurbiprofen,cimetidine,mechanism
+flurbiprofen,furosemide,effect
+nonsteroidal anti-inflammatory drugs,furosemide,effect
+nonsteroidal anti-inflammatory drugs,thiazide diuretics,effect
+nonsteroidal anti-inflammatory drugs,potassium-sparing diuretics,effect
+flurbiprofen,furosemide,advise
+flurbiprofen,diuretics,advise
+flurbiprofen,hypoglycemic agents,effect
+reserpine,beta-blocking agent,effect
+Calcium channel blockers,TENORMIN,effect
+Beta blockers,clonidine,effect
+beta blocker,clonidine,advise
+beta blockers,clonidine,advise
+indomethacin,beta blockers,effect
+azathioprine,allopurinol,mechanism
+azathioprine,allopurinol,advise
+angiotensin converting enzyme inhibitors,azathioprine,effect
+WELLBUTRIN,orphenadrine,int
+WELLBUTRIN,cyclophosphamide,int
+bupropion,carbamazepine,mechanism
+bupropion,phenobarbital,mechanism
+bupropion,phenytoin,mechanism
+bupropion,desipramine,mechanism
+bupropion,antidepressants,advise
+bupropion,nortriptyline,advise
+bupropion,imipramine,advise
+bupropion,desipramine,advise
+bupropion,paroxetine,advise
+bupropion,fluoxetine,advise
+bupropion,sertraline,advise
+bupropion,antipsychotics,advise
+bupropion,haloperidol,advise
+bupropion,risperidone,advise
+bupropion,thioridazine,advise
+bupropion,beta-blockers,advise
+bupropion,metoprolol,advise
+bupropion,Type 1C antiarrhythmics,advise
+bupropion,propafenone,advise
+bupropion,flecainide,advise
+bupropion,phenelzine,effect
+bupropion,levodopa,effect
+bupropion,amantadine,effect
+WELLBUTRIN,levodopa,advise
+WELLBUTRIN,amantadine,advise
+WELLBUTRIN,antipsychotics,advise
+WELLBUTRIN,antidepressants,advise
+WELLBUTRIN,theophylline,advise
+WELLBUTRIN,steroids,advise
+alcohol,WELLBUTRIN,effect
+alcohol,WELLBUTRIN,advise
+aminoglycosides,MAXIPIME,advise
+cephalosporins,diuretics,effect
+cephalosporins,furosemide,effect
+nisoldipine,cimetidine 400 mg,mechanism
+phenytoin,SULAR,mechanism
+SULAR,phenytoin,advise
+Propranolol,nisoldipine,effect
+SULAR,atenolol,effect
+Quinidine,nisoldipine,mechanism
+nisoldipine,quinidine,mechanism
+butorphanol,central nervous system depressants,effect
+butorphanol,alcohol,effect
+butorphanol,barbiturates,effect
+butorphanol,tranquilizers,effect
+butorphanol,antihistamines,effect
+STADOL NS,sumatriptan,mechanism
+STADOL NS,sumatriptan,mechanism
+STADOL NS,sumatriptan,effect
+butorphanol,erythromycin,advise
+STADOL NS,nasal vasoconstrictor,effect
+barbiturates,ketamine,effect
+narcotics,ketamine,effect
+Amantadine,clidinium,effect
+tricyclic antidepressants,clidinium,effect
+MAOIs,clidinium,effect
+Clidinium,phenothiazines,effect
+Clidinium,levodopa,effect
+Clidinium,ketoconazole,effect
+vitamin B12,folic acid,int
+allopurinol,VIDEX,mechanism
+antacids,VIDEX,effect
+magnesium,VIDEX,effect
+aluminum,VIDEX,effect
+ketoconazole,VIDEX,advise
+itraconazole,VIDEX,advise
+VIDEX,ganciclovir,mechanism
+VIDEX,ganciclovir,mechanism
+VIDEX,ciprofloxacin,advise
+ciprofloxacin,magnesium,mechanism
+ciprofloxacin,calcium,mechanism
+ciprofloxacin,aluminum,mechanism
+ciprofloxacin,VIDEX,mechanism
+ciprofloxacin,didanosine,mechanism
+ciprofloxacin,didanosine,mechanism
+quinolone antibiotics,magnesium,mechanism
+quinolone antibiotics,calcium,mechanism
+quinolone antibiotics,aluminum,mechanism
+delavirdine,VIDEX,mechanism
+indinavir,VIDEX,mechanism
+delavirdine,VIDEX,advise
+indinavir,VIDEX,advise
+narcotic analgesic,DILAUDID,effect
+anesthetics,DILAUDID,effect
+phenothiazines,DILAUDID,effect
+tranquilizers,DILAUDID,effect
+sedative-hypnotics,DILAUDID,effect
+tricyclic antidepressants,DILAUDID,effect
+CNS depressants,DILAUDID,effect
+alcohol,DILAUDID,effect
+D.H.E. 45,peripheral vasoconstrictors,effect
+dihydroergotamine mesylate,peripheral vasoconstrictors,effect
+Sumatriptan,D.H.E. 45,effect
+Sumatriptan,dihydroergotamine mesylate,effect
+Sumatriptan,D.H.E. 45,advise
+Sumatriptan,dihydroergotamine mesylate,advise
+propranolol,ergotamine,effect
+Nicotine,ergot,effect
+ergot alkaloid class,macrolide class,mechanism
+D.H.E. 45,macrolide class,mechanism
+dihydroergotamine mesylate,macrolide class,mechanism
+ergotamine,antibiotics,effect
+5-HT1 agonists,SSRIs,effect
+ALFENTA,CNS depressants,effect
+ALFENTA,barbiturates,effect
+ALFENTA,tranquilizers,effect
+ALFENTA,opioids,effect
+ALFENTA,anesthetics,effect
+volatile inhalation anesthetics,ALFENTA,mechanism
+erythromycin,ALFENTA,mechanism
+Cimetidine,ALFENTA,mechanism
+Ketoconazole,terfenadine,mechanism
+ketoconazole,astemizole,effect
+astemizole,ketoconazole,advise
+ketoconazole,cisapride,mechanism
+ketoconazole,cisapride,effect
+ketoconazole,cisapride,advise
+Ketoconazole,cyclosporine,mechanism
+Ketoconazole,tacrolimus,mechanism
+Ketoconazole,methylprednisolone,mechanism
+NIZORAL,midazolam,mechanism
+NIZORAL,triazolam,mechanism
+digoxin,ketoconazole,advise
+imidazole compounds,coumarin,effect
+ketoconazole,coumarin,effect
+imidazole drugs,coumarin drugs,advise
+miconazole,hypoglycemic agents,effect
+ketoconazole,phenytoin,mechanism
+ketoconazole,phenytoin,advise
+rifampin,ketoconazole,mechanism
+INH,ketoconazole,mechanism
+Isoniazid,ketoconazole,mechanism
+ketoconazole,loratadine,mechanism
+diuretics,captopril,effect
+captopril,diuretic,effect
+nitroglycerin,captopril,advise
+nitrates,captopril,advise
+Captopril,antihypertensive agents,effect
+Beta-adrenergic blocking drugs,captopril,effect
+indomethacin,captopril,effect
+lithium,ACE inhibitor,effect
+diuretic,lithium,effect
+celecoxib,fluconazole,int
+celecoxib,lithium,int
+nonsteroidal anti-inflammatory drugs,furosemide,int
+nonsteroidal anti-inflammatory drugs,ACE inhibitors,int
+NSAIDs,furosemide,int
+NSAIDs,ACE inhibitors,int
+NSAIDs,Angiotensin Converting Enzyme (ACE) inhibitors,effect
+CELEBREX,ACE-inhibitors,advise
+NSAIDs,furosemide,effect
+NSAIDs,thiazides,effect
+CELEBREX,aspirin,advise
+aspirin,CELEBREX,effect
+fluconazole,celecoxib,mechanism
+celecoxib,fluconazole,mechanism
+CELEBREX,fluconazole,advise
+lithium,CELEBREX,mechanism
+lithium,CELEBREX,advise
+CELEBREX,warfarin,advise
+bumetanide,aminoglycoside antibiotics,advise
+Lithium,diuretics,advise
+Lithium,bumetanide,advise
+probenecid,bumetanide,effect
+probenecid,bumetanide,mechanism
+probenecid,bumetanide,advise
+Indomethacin,bumetanide,mechanism
+Indomethacin,bumetanide,effect
+Bumetanide,antihypertensive drugs,effect
+anticoagulants,chlordiazepoxide,effect
+Diphenoxylate HCl,MAO inhibitors,int
+atropine sulfate,MAO inhibitors,int
+lymecycline,iron,mechanism
+lymecycline,zinc,mechanism
+contraceptives,lymecycline,effect
+nitazoxanide,warfarin,mechanism
+FLUOTHANE,non-depolarising muscle relaxant,effect
+FLUOTHANE,aminoglycosides,effect
+FLUOTHANE,tubocurarine,effect
+adrenaline,FLUOTHANE,advise
+anticoagulants,thyroid,advise
+Cholestyramine,T4,mechanism
+Cholestyramine,T3,mechanism
+cholestyramine,thyroid hormones,advise
+levothyroxine,estrogens,mechanism
+thyroid,estrogens,advise
+thyroid,contraceptives,advise
+thyroid products,imipramine,effect
+thyroid products,tricyclic antidepressants,effect
+Thyroid preparations,digitalis,effect
+thyroid preparation,anesthetic,effect
+Thyroxine,epinephrine,effect
+Thyroxine,norepinephrine,effect
+oxyphenbutazone,androgens,mechanism
+androgens,insulin,effect
+ergotamine,naratriptan,advise
+ergot-type medications,naratriptan,advise
+dihydroergotamine,naratriptan,advise
+methysergide,naratriptan,advise
+naratriptan,5-HT1 agonists,advise
+naratriptan,SSRI,advise
+cefdinir,Maalox TC,mechanism
+OMNICEF,antacid,advise
+b-lactam antibiotics,cefdinir,mechanism
+probenecid,cefdinir,mechanism
+cefdinir,iron,mechanism
+cefdinir,iron,mechanism
+iron supplements,OMNICEF,advise
+cefdinir,iron,mechanism
+clarithromycin,cisapride,mechanism
+erythromycin,cisapride,mechanism
+troleandomycin,cisapride,mechanism
+anticholinergic compounds,cisapride,effect
+belladonna alkaloids,cisapride,effect
+dicyclomine,cisapride,effect
+cisapride,anticoagulant,advise
+nefazodone,cisapride,mechanism
+fluconazole,cisapride,mechanism
+itraconazole,cisapride,mechanism
+ketoconazole,cisapride,mechanism
+ketoconazole,cisapride,mechanism
+cisapride,ketoconazole,effect
+Cimetidine,cisapride,mechanism
+cimetidine,cisapride,mechanism
+ranitidine,cisapride,mechanism
+indinavir,cisapride,mechanism
+ritonavir,cisapride,mechanism
+Cisapride,antiarrhythmics,advise
+Cisapride,quinidine,advise
+Cisapride,procainamide,advise
+Cisapride,sotalol,advise
+Cholestyramine,fat soluble vitamins,mechanism
+phenytoin,calcitriol,mechanism
+phenobarbital,calcitriol,mechanism
+thiazides,vitamin D,effect
+Vitamin D,digitalis,advise
+Ketoconazole,vitamin D,mechanism
+vitamin D analogues,corticosteroids,mechanism
+Magnesium,vitamin D,advise
+antacids,vitamin D,advise
+calcium,EMCYT,mechanism
+hydroxyurea,uricosuric medication,effect
+PROSTIN E2,oxytocic drugs,effect
+cholestyramine,leflunomide,mechanism
+activated charcoal,leflunomide,mechanism
+ARAVA,methotrexate,effect
+ARAVA,rifampin,mechanism
+ARAVA,rifampin,advise
+ARAVA,warfarin,effect
+ketoconazole,lapatinib,mechanism
+carbamazepine,lapatinib,mechanism
+psychotropic medications,LEXAPRO,advise
+alcohol,LEXAPRO,advise
+psychotropic drugs,NSAID,effect
+psychotropic drugs,aspirin,effect
+citalopram,cimetidine,mechanism
+lithium,escitalopram,effect
+LEXAPRO,lithium,advise
+pimozide,citalopram,effect
+selective serotonin reuptake inhibitor,sumatriptan,effect
+SSRI,sumatriptan,effect
+sumatriptan,SSRI,advise
+sumatriptan,fluoxetine,advise
+sumatriptan,fluvoxamine,advise
+sumatriptan,paroxetine,advise
+sumatriptan,sertraline,advise
+sumatriptan,citalopram,advise
+sumatriptan,escitalopram,advise
+carbamazepine,escitalopram,mechanism
+citalopram,ketoconazole,mechanism
+escitalopram,desipramine,mechanism
+LEXAPRO,metoprolol,mechanism
+escitalopram,citalopram,advise
+escitalopram,Celexa,advise
+CNS depressant drugs,INAPSINE,effect
+barbiturates,INAPSINE,effect
+tranquilizers,INAPSINE,effect
+opioids,INAPSINE,effect
+anesthetics,INAPSINE,effect
+INAPSINE,CNS depressant drugs,advise
+Beta-blockers,insulin,effect
+clonidine,insulin,effect
+lithium,insulin,effect
+alcohol,insulin,effect
+lithium,ACE inhibitors,mechanism
+lithium,angiotensin II receptor antagonists,mechanism
+lithium,ATACAND,mechanism
+CRIXIVAN,atazanavir,advise
+CRIXIVAN,delavirdine,advise
+Indinavir,didanosine,advise
+indinavir,efavirenz,mechanism
+Indinavir,nevirapine,mechanism
+indinavir,ritonavir,effect
+antiarrhythmics,CRIXIVAN,advise
+CRIXIVAN,indinavir,effect
+atorvastatin,CRIXIVAN,advise
+HMG-CoA reductase inhibitors,CRIXIVAN,advise
+CRIXIVAN,itraconazole,advise
+rifabutin,CRIXIVAN,advise
+Sildenafil,indinavir,advise
+Tadalafil,indinavir,advise
+Vardenafil,indinavir,advise
+ENABLEX,ketoconazole,advise
+ENABLEX,itraconazole,advise
+ENABLEX,ritonavir,advise
+ENABLEX,nelfinavir,advise
+ENABLEX,clarithromycin,advise
+ENABLEX,flecainide,advise
+ENABLEX,thioridazine,advise
+ENABLEX,tricyclic antidepressants,advise
+ENABLEX,anticholinergic agents,effect
+butalbital,monoamine oxidase (MAO) inhibitors,effect
+Butalbital,narcotic analgesic,effect
+Butalbital,alcohol,effect
+Butalbital,anesthetics,effect
+Butalbital,tranquilizers,effect
+Butalbital,chlordiazepoxide,effect
+Butalbital,sedative-hypnotics,effect
+Butalbital,CNS depressants,effect
+acetaminophen,narcotic analgesic,effect
+acetaminophen,alcohol,effect
+acetaminophen,anesthetics,effect
+acetaminophen,tranquilizers,effect
+acetaminophen,chlordiazepoxide,effect
+acetaminophen,sedative-hypnotics,effect
+acetaminophen,CNS depressants,effect
+caffeine,narcotic analgesic,effect
+caffeine,alcohol,effect
+caffeine,anesthetics,effect
+caffeine,tranquilizers,effect
+caffeine,chlordiazepoxide,effect
+caffeine,sedative-hypnotics,effect
+caffeine,CNS depressants,effect
+Rifampin,losartan,mechanism
+Fluconazole,losartan,mechanism
+losartan,indomethacin,effect
+BOTOX,aminoglycosides,advise
+BOTOX,curare-like compounds,advise
+botulinum toxin,botulinum toxin,effect
+Warfarin,Meclofenamate sodium,effect
+meclofenamate sodium,warfarin,advise
+aspirin,meclofenamate sodium,mechanism
+Starlix,tolbutamide,mechanism
+nonsteroidal anti-inflammatory agents,Starlix,effect
+nonsteroidal anti-inflammatory agents,antidiabetic drugs,effect
+NSAIDs,Starlix,effect
+NSAIDs,antidiabetic drugs,effect
+salicylates,Starlix,effect
+salicylates,antidiabetic drugs,effect
+monoamine oxidase inhibitors,Starlix,effect
+monoamine oxidase inhibitors,antidiabetic drugs,effect
+non-selective beta-adrenergic-blocking agents,Starlix,effect
+non-selective beta-adrenergic-blocking agents,antidiabetic drugs,effect
+thiazides,Starlix,effect
+thiazides,antidiabetic drugs,effect
+corticosteroids,Starlix,effect
+corticosteroids,antidiabetic drugs,effect
+thyroid products,Starlix,effect
+thyroid products,antidiabetic drugs,effect
+sympathomimetics,Starlix,effect
+sympathomimetics,antidiabetic drugs,effect
+PLETAL,ketoconazole,advise
+PLETAL,erythromycin,advise
+PLETAL,omeprazole,advise
+omeprazole,cilostazol,mechanism
+erythromycin,cilostazol,mechanism
+cilostazol,diltiazem,mechanism
+idoxuridine,boric acid,advise
+Boric acid,idoxuridine,mechanism
+CASODEX,coumarin anticoagulant,mechanism
+CASODEX,warfarin,mechanism
+CASODEX,coumarin anticoagulants,advise
+CASODEX,anticoagulant,advise
+warfarin,ketorolac tromethamine,mechanism
+salicylate,ketorolac,mechanism
+TORADOL,anticoagulants,advise
+TORADOL,furosemide,effect
+TORADOL,probenecid,mechanism
+TORADOL,probenecid,advise
+lithium,TORADOL,mechanism
+methotrexate,NSAIDs,mechanism
+TORADOL,antiepileptic drugs,effect
+TORADOL,phenytoin,effect
+TORADOL,carbamazepine,effect
+TORADOL,psychoactive drugs,effect
+TORADOL,fluoxetine,effect
+TORADOL,thiothixene,effect
+TORADOL,alprazolam,effect
+TAMBOCOR,digoxin,mechanism
+TAMBOCOR,propranolol,mechanism
+TAMBOCOR,propranolol,effect
+beta blockers,flecainide,effect
+phenytoin,flecainide,mechanism
+phenobarbital,flecainide,mechanism
+carbamazepine,flecainide,mechanism
+cimetidine,flecainide,mechanism
+amiodarone,flecainide,mechanism
+quinidine,flecainide,mechanism
+disopyramide,TAMBOCOR,advise
+verapamil,TAMBOCOR,advise
+anileridine,opioids,advise
+anileridine,sedatives,advise
+anileridine,phenothiazines,advise
+anileridine,anesthetics,advise
+Tiagabine,valproate,mechanism
+tiagabine,carbamazepine,mechanism
+tiagabine,phenytoin,mechanism
+tiagabine,phenobarbital,mechanism
+tiagabine,primidone,mechanism
+valproate,tiagabine,mechanism
+ethanol,tiagabine,advise
+triazolam,tiagabine,advise
+piperacillin,aminoglycoside,effect
+piperacillin,vecuronium,effect
+piperacillin,vecuronium,effect
+non-depolarizing muscle relaxants,piperacillin,effect
+probenecid,PIPRACIL,mechanism
+Piperacillin sodium,methotrexate,mechanism
+calcium channel blockers,Nimotop,effect
+Nimotop,antihypertensive compounds,effect
+cimetidine,nimodipine,mechanism
+ETOPOPHOS,levamisole hydrochloride,advise
+cyclosporin A,etoposide,mechanism
+ipratropium bromide,anticholinergic medications,effect
+ATROVENT,anticholinergic,advise
+vitamin K antagonists,nilutamide,advise
+probenecid,acyclovir,mechanism
+cyclophosphamide,phenobarbital,mechanism
+Cyclophosphamide,succinylcholine chloride,effect
+adrenergic drugs,BROVANA,advise
+methylxanthines,adrenergic agonists,effect
+aminophylline,adrenergic agonists,effect
+theophylline,adrenergic agonists,effect
+steroids,adrenergic agonists,effect
+diuretics,adrenergic agonists,effect
+non-potassium sparing diuretics,beta-agonists,effect
+loop,beta-agonists,effect
+thiazide diuretics,beta-agonists,effect
+beta-agonists,non-potassium sparing diuretics,advise
+BROVANA,monoamine oxidase inhibitors,advise
+BROVANA,tricyclic antidepressants,advise
+beta2-agonists,monoamine oxidase inhibitors,advise
+beta2-agonists,tricyclic antidepressants,advise
+monoamine oxidase inhibitors,adrenergic agonists,effect
+tricyclic antidepressants,adrenergic agonists,effect
+Beta-adrenergic receptor antagonists,BROVANA,effect
+beta-blockers,BROVANA,effect
+Beta-blockers,beta-agonists,effect
+CAMPTOSAR,antineoplastic agents,effect
+CAMPTOSAR,dexamethasone,effect
+prochlorperazine,CAMPTOSAR,effect
+laxative,CAMPTOSAR,effect
+diuretics,CAMPTOSAR,effect
+diuretics,Lotensin,effect
+diuretic,Lotensin,advise
+Potassium-Sparing Diuretics,thiazide diuretics,effect
+ACE inhibitors,lithium,mechanism
+diuretic,lithium,effect
+Benazepril,beta-adrenergic blockers,effect
+ACE inhibitors,beta-adrenergic blockers,effect
+theophylline,quinolones,mechanism
+theophylline,quinolone,effect
+Quinolones,caffeine,mechanism
+cinoxacin,caffeine,advise
+Antacids,quinolones,mechanism
+sucralfate,quinolones,mechanism
+quinolones,iron,mechanism
+quinolones,zinc,mechanism
+quinolones,Videx,mechanism
+quinolones,didanosine,mechanism
+Quinolones,anticoagulants,effect
+Quinolones,warfarin,effect
+cinoxacin,anticoagulants,effect
+cinoxacin,warfarin,effect
+quinolone class antimicrobial,nonsteroidal anti-inflammatory drug,effect
+quinolone class antimicrobial,fenbufen,effect
+cinoxacin,nonsteroidal anti-inflammatory agents,advise
+quinolones,cyclosporine,mechanism
+PEGASYS,theophylline,mechanism
+theophylline,PEGASYS,advise
+COPEGUS,didanosine,advise
+Ribavirin,stavudine,effect
+Ribavirin,zidovudine,effect
+HEMABATE,oxytocic agents,effect
+Erythromycin,vardenafil,mechanism
+Vardenafil,erythromycin,advise
+Ketoconazole,vardenafil,mechanism
+Vardenafil,ketoconazole,advise
+Vardenafil,ketoconazole,advise
+Indinavir,Vardenafil,mechanism
+Vardenafil,indinavir,advise
+Ritonavir,Vardenafil,mechanism
+vardenafil,ritonavir,mechanism
+Ritonavir,vardenafil,mechanism
+Vardenafil,ritonavir,advise
+nitrates,vardenafil,mechanism
+Vardenafil,nitrates,advise
+nifedipine,Vardenafil,effect
+Vardenafil,terazosin,effect
+Vardenafil,terazosin,effect
+Vardenafil,terazosin,effect
+Vardenafil,terazosin,effect
+Vardenafil,tamsulosin,effect
+Vardenafil,tamsulosin,effect
+Vardenafil,alpha-blocker,advise
+Vardenafil,ritonavir,mechanism
+Vardenafil,indinavir,mechanism
+antacids,lactulose,mechanism
+Anagrelide,aspirin,effect
+fluvoxamine,anagrelide,mechanism
+Anagrelide,theophylline,mechanism
+milrinone,anagrelide,effect
+enoximone,anagrelide,effect
+amrinone,anagrelide,effect
+olprinone,anagrelide,effect
+cilostazol,anagrelide,effect
+sucralfate,anagrelide,mechanism
+dantrolene sodium,calcium channel blockers,advise
+dantrolene sodium,verapamil,advise
+dantrolene,vecuronium,effect
+iloprost,vasodilators,effect
+iloprost,antihypertensive agents,effect
+iloprost,anticoagulants,effect
+fexofenadine hydrochloride,ketoconazole,mechanism
+fexofenadine hydrochloride,erythromycin,mechanism
+ketoconazole,fexofenadine,mechanism
+erythromycin,fexofenadine,mechanism
+ketoconazole,fexofenadine,mechanism
+fexofenadine hydrochloride,aluminum,mechanism
+fexofenadine hydrochloride,magnesium,mechanism
+fexofenadine hydrochloride,antacid,mechanism
+fexofenadine hydrochloride,Maalox,mechanism
+ALLEGRA,aluminum,advise
+ALLEGRA,magnesium,advise
+Fenfluramine,antihypertensive drugs,effect
+Fenfluramine,guanethidine,effect
+Fenfluramine,methyldopa,effect
+Fenfluramine,reserpine,effect
+CNS depressant drugs,fenfluramine,advise
+Netilmicin,loop diuretics,advise
+Netilmicin,furosemide,advise
+Netilmicin,ethacrynic acid,advise
+rauwolfia alkaloid,MAO inhibitors,effect
+Exjade,aluminum,advise
+doxapram,sympathomimetic,effect
+doxapram,monoamine oxidase inhibiting drugs,effect
+doxapram,muscle relaxant drugs,effect
+Betaseron,antipyrine,mechanism
+ketoconazole,erlotinib,mechanism
+TARCEVA,ketoconazole,advise
+TARCEVA,atazanavir,advise
+TARCEVA,clarithromycin,advise
+TARCEVA,indinavir,advise
+TARCEVA,itraconazole,advise
+TARCEVA,nefazodone,advise
+TARCEVA,nelfinavir,advise
+TARCEVA,ritonavir,advise
+TARCEVA,saquinavir,advise
+TARCEVA,telithromycin,advise
+TARCEVA,troleandomycin,advise
+TARCEVA,TAO,advise
+TARCEVA,voriconazole,advise
+rifampicin,erlotinib,mechanism
+TARCEVA,rifampicin,advise
+Ethopropazine,alcohol,effect
+Ethopropazine,CNS depressants,effect
+Ethopropazine,chlorpromazine,mechanism
+capecitabine,coumarin-derivative anticoagulants,effect
+capecitabine,phenprocoumon,effect
+coumarin-derivative anticoagulants,capecitabine,advise
+5-fluorouracil,leucovorin,mechanism
+leucovorin,fluorouracil,effect
+dobutamine,b-blocking drug,effect
+dobutamine,nitroprusside,effect
+Isoflurane,muscle relaxants,effect
+Isoflurane,nondepolarizing muscle relaxants,effect
+cimetidine,isradipine,mechanism
+isradipine,cimetidine,advise
+rifampicin,isradipine,mechanism
+rifampicin,isradipine,mechanism
+fentanyl,beta blocker,effect
+fentanyl,calcium channel blocker,effect
+epinephrine,monoamine oxidase inhibitors,effect
+epinephrine,tricyclic antidepressants,effect
+norepinephrine,monoamine oxidase inhibitors,effect
+norepinephrine,tricyclic antidepressants,effect
+Phenothiazines,epinephrine,effect
+butyrophenones,epinephrine,effect
+Corticotropin,diuretic,effect
+anesthetic solutions,tricyclic antidepressants,effect
+anesthetic solutions,phenothiazines,effect
+epinephrine,monoamine oxidase inhibitors,effect
+epinephrine,tricyclic antidepressants,effect
+epinephrine,phenothiazines,effect
+norepinephrine,monoamine oxidase inhibitors,effect
+norepinephrine,tricyclic antidepressants,effect
+norepinephrine,phenothiazines,effect
+vasopressor drugs,ergot-type oxytocic drugs,effect
+chloroprocaine,sulfonamide drug,advise
+Beta-adrenergic blocking agents,arbutamine,advise
+Nabilone,psychoactive drugs,advise
+Nabilone,CNS depressants,advise
+Nabilone,alcohol,advise
+Nabilone,barbiturates,advise
+Nabilone,narcotic analgesics,advise
+Nabilone,diazepam,effect
+Nabilone,secobarbitone sodium,effect
+Nabilone,alcohol,effect
+Nabilone,codeine,effect
+HMG-CoA reductase inhibitors,Fentanyl,advise
+diuretics,enalapril,effect
+diuretics,enalaprilat,effect
+enalapril,diuretic,effect
+enalaprilat,diuretic,effect
+enalapril,antihypertensive agents,effect
+enalapril,diuretics,effect
+enalapril,antihypertensive agents,effect
+enalapril,diuretics,effect
+nonsteroidal anti-inflammatory drugs,enalapril,effect
+NSAIDs,ACE inhibitors,effect
+NSAIDs,ACE inhibitors,advise
+Enalapril,thiazide-type diuretics,effect
+enalapril,thiazide-type diuretics,effect
+lithium,ACE inhibitors,effect
+enalapril,lithium,advise
+diclofenac,aspirin,advise
+diclofenac,aspirin,mechanism
+diclofenac,NSAIDs,advise
+NSAIDs,warfarin,advise
+diclofenac,warfarin,advise
+diclofenac,digoxin,mechanism
+diclofenac,methotrexate,mechanism
+diclofenac,cyclosporine,effect
+diclofenac,digoxin,effect
+diclofenac,methotrexate,effect
+diclofenac,cyclosporine,effect
+NSAID,digoxin,effect
+NSAID,methotrexate,effect
+NSAID,cyclosporine,effect
+Diclofenac,lithium,mechanism
+Diclofenac,lithium,mechanism
+diclofenac,lithium,effect
+insulin,diclofenac,effect
+hypoglycemic agents,diclofenac,effect
+diclofenac,insulin,effect
+diclofenac,hypoglycemic agents,effect
+Diclofenac,diuretics,effect
+NSAIDs,diuretics,effect
+phenobarbital,diclofenac,effect
+diclofenac,salicylic acid,mechanism
+diclofenac,tolbutamide,mechanism
+diclofenac,prednisolone,mechanism
+diclofenac,warfarin,mechanism
+Aprepitant,S(-) warfarin,mechanism
+Aprepitant,tolbutamide,mechanism
+Aprepitant,phenytoin,mechanism
+Aprepitant,dexamethasone,mechanism
+Aprepitant,dexamethasone,mechanism
+dexamethasone,Aprepitant,advise
+dexamethasone,Aprepitant,mechanism
+Aprepitant,methylprednisolone,mechanism
+methylprednisolone,Aprepitant,advise
+methylprednisolone,Aprepitant,advise
+S(-)warfarin,Aprepitant,mechanism
+warfarin,Aprepitant,advise
+tolbutamide,Aprepitant,mechanism
+Aprepitant,ethinyl estradiol,mechanism
+Aprepitant,norethindrone,mechanism
+contraceptives,Aprepitant,effect
+Aprepitant,contraceptives,advise
+Aprepitant,midazolam,mechanism
+midazolam,Aprepitant,advise
+benzodiazepines,Aprepitant,advise
+alprazolam,Aprepitant,advise
+triazolam,Aprepitant,advise
+Aprepitant,midazolam,mechanism
+Aprepitant,midazolam,mechanism
+Aprepitant,ketoconazole,advise
+Aprepitant,itraconazole,advise
+Aprepitant,nefazodone,advise
+Aprepitant,troleandomycin,advise
+Aprepitant,clarithromycin,advise
+Aprepitant,ritonavir,advise
+Aprepitant,nelfinavir,advise
+diltiazem,aprepitant,advise
+Aprepitant,rifampin,mechanism
+Aprepitant,phenytoin,mechanism
+Aprepitant,aprepitant,mechanism
+Aprepitant,ketoconazole,mechanism
+Aprepitant,rifampin,mechanism
+aprepitant,diltiazem,mechanism
+aprepitant,paroxetine,mechanism
+FLEXERIL,MAO inhibitors,int
+FLEXERIL,alcohol,effect
+FLEXERIL,barbiturates,effect
+FLEXERIL,CNS depressants,effect
+Tricyclic antidepressants,guanethidine,effect
+Tricyclic antidepressants,tramadol,effect
+Zarontin,antiepileptic drugs,int
+ethosuximide,antiepileptic drugs,int
+ethosuximide,phenytoin,mechanism
+valproic acid,ethosuximide,mechanism
+interferon beta-1a,TYSABRI,mechanism
+AVONEX,TYSABRI,mechanism
+Robinul,anticholinergics,effect
+Robinul,phenothiazines,effect
+Robinul,antiparkinson drugs,effect
+Robinul,tricyclic antidepressants,effect
+Robinul,potassium chloride,mechanism
+Tetracycline,penicillin,effect
+Itraconazole,busulfan,mechanism
+Phenytoin,busulfan,mechanism
+BUSULFEX,phenytoin,mechanism
+acetaminophen,BUSULFEX,mechanism
+DISULFIRAM,PHENYTOIN,advise
+DISULFIRAM,PHENYTOIN,effect
+anticoagulants,disulfiram,advise
+isoniazid,disulfiram,advise
+disulfiram,nitrite,effect
+disulfiram,nitrites,effect
+naltrexone,Acamprosate,mechanism
+Acamprosate,antidepressants,effect
+Chlorthalidone,antihypertensive drugs,effect
+Chlorthalidone,tubocurarine,effect
+Chlorthalidone,norepinephrine,effect
+cholestyramine,vitamin K,mechanism
+colestipol,vitamin K,mechanism
+mineral oil,vitamin K,mechanism
+Orlistat,vitamin K,mechanism
+Vitamin K,warfarin,effect
+steroid,bitolterol,advise
+bitolterol,steroid,advise
+bitolterol,steroid,effect
+Antihistamines,tricyclic antidepressants,effect
+Antihistamines,barbiturates,effect
+Antihistamines,alcohol,effect
+Antihistamines,CNS depressants,effect
+MAO inhibitors,antihistamines,effect
+Sympathomimetic amines,reserpine,effect
+Sympathomimetic amines,veratrum alkaloids,effect
+Sympathomimetic amines,methyldopa,effect
+Sympathomimetic amines,mecamylamine,effect
+sympathomimetics,MAO inhibitors,effect
+sympathomimetics,beta adrenergic blockers,effect
+ALPHAGAN P,CNS depressants,advise
+ALPHAGAN P,alcohol,advise
+ALPHAGAN P,barbiturates,advise
+ALPHAGAN P,opiates,advise
+ALPHAGAN P,sedatives,advise
+ALPHAGAN P,anesthetics,advise
+Tricyclic antidepressants,clonidine,effect
+ammonium chloride,amphetamine,mechanism
+sodium acid phosphate,amphetamine,mechanism
+Adrenergic blockers,amphetamines,effect
+Amphetamines,tricyclic antidepressants,effect
+Amphetamines,sympathomimetic agents,effect
+d-amphetamine,desipramine,mechanism
+d-amphetamine,protriptyline,mechanism
+d-amphetamine,tricyclics,mechanism
+MAOI antidepressants,amphetamine,mechanism
+furazolidone,amphetamine,mechanism
+Amphetamines,antihistamines,effect
+Amphetamines,antihypertensives,effect
+Chlorpromazine,amphetamines,effect
+Amphetamines,ethosuximide,mechanism
+Haloperidol,amphetamines,effect
+amphetamines,lithium carbonate,effect
+Amphetamines,meperidine,effect
+amphetamines,methenamine,mechanism
+Amphetamines,norepinephrine,effect
+Amphetamines,phenobarbital,mechanism
+Amphetamines,phenytoin,mechanism
+propoxyphene,amphetamine,effect
+Amphetamines,veratrum alkaloids,effect
+Anticholinergic agents,digoxin,mechanism
+Anticholinergic drugs,metoclopramide,mechanism
+antacids,anticholinergic agents,mechanism
+Dexbrompheniramine,alcohol,effect
+Dexbrompheniramine,CNS depressants,effect
+Dexbrompheniramine,anticholinergics,effect
+Dexbrompheniramine,monoamine oxidase (MAO) inhibitors,effect
+loxapine,lorazepam,effect
+tetracyclines,anticoagulant,advise
+tetracycline class,penicillins,effect
+tetracyclines,contraceptives,effect
+levothyroxine sodium,aluminum hydoxide,mechanism
+levothyroxine sodium,cholestyramine,mechanism
+levothyroxine sodium,colestipol hydrochloride,mechanism
+levothyroxine sodium,ferrous sulfate,mechanism
+levothyroxine sodium,sodium polystyrene sulfonate,mechanism
+levothyroxine sodium,sucralfate,mechanism
+levothyroxine sodium,androgens,mechanism
+levothyroxine sodium,anabolic hormones,mechanism
+levothyroxine sodium,asparaginase,mechanism
+levothyroxine sodium,clofibrate,mechanism
+levothyroxine sodium,estrogens,mechanism
+levothyroxine sodium,estrogen-containing compounds,mechanism
+levothyroxine sodium,5-fluorouracil,mechanism
+levothyroxine sodium,furosemide,mechanism
+levothyroxine sodium,glucocorticoids,mechanism
+levothyroxine sodium,meclofenamic acid,mechanism
+levothyroxine sodium,mefenamic acid,mechanism
+levothyroxine sodium,methadone,mechanism
+levothyroxine sodium,perphenazine,mechanism
+levothyroxine sodium,phenylbutazone,mechanism
+levothyroxine sodium,phenytoin,mechanism
+levothyroxine sodium,salicylates,mechanism
+levothyroxine sodium,tamoxifen,mechanism
+levothyroxine sodium,ketamine,effect
+carbonic anhydrase inhibitors,salicylate,int
+REVIA,disulfiram,effect
+REVIA,thioridazine,effect
+REVIA,opioid,effect
+REVIA,opioid analgesics,effect
+REVIA,opioid,effect
+Anafranil,MAO inhibitors,advise
+Anafranil,anticholinergic,advise
+Anafranil,sympathomimetic drugs,advise
+tricyclic antidepressants,guanethidine,effect
+tricyclic antidepressants,clonidine,effect
+tricyclic antidepressants,CMI,effect
+tricyclic antidepressants,tricyclic antidepressants,effect
+CMI,haloperidol,mechanism
+tricyclic antidepressants,methylphenidate,mechanism
+tricyclic antidepressants,cimetidine,mechanism
+tricyclic antidepressants,fluoxetine,mechanism
+tricyclic antidepressants,barbiturates,mechanism
+tricyclic antidepressants,phenytoin,mechanism
+methylphenidate,CMI,mechanism
+cimetidine,CMI,mechanism
+fluoxetine,CMI,mechanism
+barbiturates,CMI,mechanism
+phenytoin,CMI,mechanism
+CMI,phenobarbital,mechanism
+Fluvoxamine,TCA,mechanism
+SSRI,TCA,int
+TCAs,SSRIs,advise
+TCA,fluoxetine,advise
+Anafranil,warfarin,mechanism
+Anafranil,digoxin,mechanism
+WelChol,verapamil,mechanism
+WelChol,Calan SR,mechanism
+atorvastatin,Maalox TC,mechanism
+colestipol,atorvastatin,mechanism
+atorvastatin,colestipol,effect
+atorvastatin,digoxin,mechanism
+atorvastatin,erythromycin,mechanism
+atorvastatin,contraceptive,mechanism
+atorvastatin,norethindrone,mechanism
+atorvastatin,ethinyl estradiol,mechanism
+contraceptive,atorvastatin,advise
+HMG-CoA reductase inhibitor,ketoconazole,advise
+HMG-CoA reductase inhibitor,spironolactone,advise
+HMG-CoA reductase inhibitor,cimetidine,advise
+Femara,tamoxifen,mechanism
+aspirin,carbonic anhydrase inhibitors,advise
+allopurinol,ampicillin,effect
+ampicillin,allopurinol,effect
+broad-spectrum antibiotics,contraceptives,effect
+AUGMENTIN XR,contraceptives,effect
+sulfonylureas,nonsteroidal anti-inflammatory agents,effect
+sulfonylureas,salicylates,effect
+sulfonylureas,sulfonamides,effect
+sulfonylureas,chloramphenicol,effect
+sulfonylureas,probenecid,effect
+sulfonylureas,coumarins,effect
+sulfonylureas,monoamine oxidase inhibitors,effect
+sulfonylureas,beta adrenergic blocking agents,effect
+glyburide,ciprofloxacin,int
+miconazole,hypoglycemic agents,effect
+Nafazodone,Xanax,advise
+fluvoxamine,Xanax,advise
+cimetidine,Xanax,advise
+Intestinal adsorbents,Acarbose,mechanism
+charcoal,Acarbose,mechanism
+amylase,Acarbose,mechanism
+pancreatin,Acarbose,mechanism
+Acarbose,digoxin,mechanism
+metformin,Acarbose,mechanism
+Acarbose,metformin,mechanism
+labetalol HCl,tricyclic antidepressants,effect
+Cimetidine,labetalol HCl,mechanism
+halothane,labetalol HCl,effect
+labetalol HCl,halothane,effect
+Labetalol HCl,nitroglycerin,effect
+labetalol HCl,nitroglycerin,effect
+labetalol,calcium antagonist,advise
+diphenidol,apomorphine,effect
+coumarin,fondaparinux,mechanism
+benzodiazepines,anticonvulsants,effect
+benzodiazepines,antihistamines,effect
+benzodiazepines,alcohol,effect
+benzodiazepines,barbiturates,effect
+benzodiazepines,monoamine oxidase inhibitors,effect
+benzodiazepines,narcotics,effect
+benzodiazepines,phenothiazines,effect
+benzodiazepines,psychotropic medications,effect
+estazolam,carbamazepine,mechanism
+estazolam,phenytoin,mechanism
+estazolam,rifampin,mechanism
+estazolam,barbiturates,mechanism
+estazolam,estazolam,mechanism
+estazolam,ketoconazole,advise
+estazolam,itraconazole,advise
+benzodiazepines,nefazodone,mechanism
+benzodiazepines,fluvoxamine,mechanism
+benzodiazepines,cimetidine,mechanism
+benzodiazepines,diltiazem,mechanism
+benzodiazepines,isoniazide,mechanism
+benzodiazepines,macrolide antibiotics,mechanism
+Colchicine,vitamin B12,mechanism
+para-aminosalicylic acid,vitamin B12,mechanism
+alcohol,vitamin B12,mechanism
+photosensitizing agents,LEVULAN KERASTICK,effect
+griseofulvin,LEVULAN KERASTICK,effect
+thiazide diuretics,LEVULAN KERASTICK,effect
+sulfonylureas,LEVULAN KERASTICK,effect
+phenothiazines,LEVULAN KERASTICK,effect
+sulfonamides,LEVULAN KERASTICK,effect
+tetracyclines,LEVULAN KERASTICK,effect
+ergotamine,FROVA,advise
+ergot-type medications,FROVA,advise
+dihydroergotamine,FROVA,advise
+methysergide,FROVA,advise
+Selective serotonin reuptake inhibitors,5-HT1 agonists,effect
+SSRIs,5-HT1 agonists,effect
+fluoxetine,5-HT1 agonists,effect
+fluvoxamine,5-HT1 agonists,effect
+paroxetine,5-HT1 agonists,effect
+sertraline,5-HT1 agonists,effect
+frovatriptan,SSRI,advise
+RAPTIVA,immunosuppressive drugs,advise
+Acellular,RAPTIVA,advise
+live,RAPTIVA,advise
+live-attenuated vaccines,RAPTIVA,advise
+DIAMOX,phenytoin,mechanism
+DIAMOX,phenytoin,mechanism
+DIAMOX,primidone,mechanism
+DIAMOX,primidone,advise
+Acetazolamide,folic acid antagonists,effect
+Acetazolamide,amphetamine,mechanism
+Acetazolamide,quinidine,mechanism
+Acetazolamide,methenamine,effect
+Acetazolamide,lithium,mechanism
+Acetazolamide,sodium bicarbonate,effect
+Acetazolamide,cyclosporine,mechanism
+quinolones,aluminum,mechanism
+quinolones,magnesium,mechanism
+quinolones,calcium,mechanism
+quinolones,sucralfate,mechanism
+quinolones,iron,mechanism
+quinolones,multivitamins,mechanism
+quinolones,iron,mechanism
+quinolones,zinc,mechanism
+quinolones,VIDEX,mechanism
+quinolones,didanosine,mechanism
+Grepafloxacin,caffeine,mechanism
+Grepafloxacin,theobromine,mechanism
+quinolones,caffeine,mechanism
+quinolones,theobromine,mechanism
+Grepafloxacin,theophylline,mechanism
+grepafloxacin,theophylline,mechanism
+theophylline,grepafloxacin,advise
+quinolones,warfarin,effect
+quinolone antimicrobial,warfarin,advise
+grepafloxacin,theophylline,mechanism
+quinolones,cyclosporine,mechanism
+nonsteroidal anti inflammatory drug,quinolone,effect
+quinolones,antidiabetic agent,effect
+Furosemide,aminoglycoside antibiotics,effect
+Furosemide,ethacrynic acid,advise
+salicylates,furosemide,effect
+Furosemide,tubocurarine,effect
+Furosemide,succinylcholine,effect
+Lithium,diuretics,advise
+Furosemide,antihypertensive drugs,effect
+Furosemide,norepinephrine,effect
+sucralfate,furosemide,effect
+furosemide,sucralfate,advise
+furosemide,acetylsalicylic acid,effect
+furosemide,NSAIDs,effect
+indomethacin,furosemide,effect
+indomethacin,furosemide,advise
+diflunisal,indomethacin,mechanism
+INDOCIN,diflunisal,effect
+diflunisal,INDOCIN,advise
+aspirin,indomethacin,mechanism
+INDOCIN,NSAIDs,advise
+INDOCIN,anticoagulant,advise
+anticoagulants,INDOCIN,effect
+INDOCIN,anticoagulants,advise
+INDOCIN,probenecid,mechanism
+INDOCIN,methotrexate,advise
+INDOCIN,methotrexate,mechanism
+non-steroidal anti-inflammatory drugs,cyclosporine,effect
+NSAIDs,cyclosporine,advise
+INDOCIN,lithium,mechanism
+INDOCIN,lithium,advise
+INDOCIN,digoxin,mechanism
+INDOCIN,digoxin,advise
+INDOCIN,loop,effect
+INDOCIN,potassium-sparing,effect
+INDOCIN,thiazide diuretics,effect
+triamterene,INDOCIN,effect
+INDOCIN,triamterene,advise
+INDOCIN,potassium-sparing diuretics,effect
+diuretics,INDOCIN,effect
+beta-adrenoceptor blocking agents,non-steroidal antiinflammatory drugs,effect
+beta-adrenoceptor blocking agents,INDOCIN,effect
+INDOCIN,captopril,effect
+INDOCIN,losartan,effect
+calcium channel blockers,saquinavir,mechanism
+dapsone,saquinavir,mechanism
+disopyramide,saquinavir,mechanism
+quinine,saquinavir,mechanism
+amiodarone,saquinavir,mechanism
+quinidine,saquinavir,mechanism
+warfarin,saquinavir,mechanism
+tacrolimus,saquinavir,mechanism
+cyclosporine,saquinavir,mechanism
+ergot derivatives,saquinavir,mechanism
+pimozide,saquinavir,mechanism
+carbamazepine,saquinavir,mechanism
+fentanyl,saquinavir,mechanism
+alfentanyl,saquinavir,mechanism
+alprazolam,saquinavir,mechanism
+triazolam,saquinavir,mechanism
+INVIRASE,ritonavir,advise
+phenobarbital,saquinavir,mechanism
+phenytoin,saquinavir,mechanism
+dexamethasone,saquinavir,mechanism
+carbamazepine,saquinavir,mechanism
+digoxin,conivaptan,mechanism
+digoxin,VAPRISOL,mechanism
+beta-blockers,Tiazac,effect
+digitalis,Tiazac,effect
+diltiazem hydrochloride,propranolol,mechanism
+propranolol,diltiazem,mechanism
+cimetidine,diltiazem,mechanism
+cimetidine,diltiazem,mechanism
+diltiazem,cimetidine,advise
+diltiazem hydrochloride,digoxin,mechanism
+digoxin,diltiazem hydrochloride,advise
+anesthetics,calcium channel blockers,effect
+anesthetics,calcium channel blockers,advise
+diltiazem,cyclosporine,int
+cyclosporine,diltiazem,mechanism
+cyclosporine,diltiazem,advise
+diltiazem,carbamazepine,mechanism
+diltiazem,midazolam,mechanism
+diltiazem,triazolam,mechanism
+midazolam,diltiazem,mechanism
+triazolam,diltiazem,mechanism
+diltiazem,midazolam,effect
+diltiazem,triazolam,effect
+diltiazem,lovastatin,mechanism
+rifampin,diltiazem,mechanism
+diltiazem,rifampin,advise
+escitalopram,non-selective MAO inhibitor,advise
+MAO inhibitor,escitalopram,advise
+acitretin,ethanol,mechanism
+acitretin,glibenclamide,effect
+acitretin,progestin,effect
+progestin,Soriatane,advise
+methotrexate,etretinate,effect
+methotrexate,acitretin,advise
+acitretin,phenytoin,mechanism
+acitretin,tetracyclines,effect
+vitamin A,acitretin,advise
+retinoids,acitretin,advise
+benzodiazepines,psychotropic medications,effect
+benzodiazepines,anticonvulsants,effect
+benzodiazepines,antihistaminics,effect
+benzodiazepines,ethanol,effect
+alprazolam,psychotropic medications,effect
+alprazolam,anticonvulsants,effect
+alprazolam,antihistaminics,effect
+alprazolam,ethanol,effect
+imipramine,alprazolam,mechanism
+desipramine,alprazolam,mechanism
+fluoxetine,alprazolam,mechanism
+propoxyphene,alprazolam,mechanism
+contraceptives,alprazolam,mechanism
+alprazolam,diltiazem,int
+alprazolam,isoniazid,int
+alprazolam,macrolide antibiotics,int
+alprazolam,erythromycin,int
+alprazolam,clarithromycin,int
+alprazolam,sertraline,int
+alprazolam,paroxetine,int
+benzodiazepines,ergotamine,int
+benzodiazepines,cyclosporine,int
+benzodiazepines,amiodarone,int
+benzodiazepines,nicardipine,int
+benzodiazepines,nifedipine,int
+alprazolam,ergotamine,int
+alprazolam,cyclosporine,int
+alprazolam,amiodarone,int
+alprazolam,nicardipine,int
+alprazolam,nifedipine,int
+Dipyridamole,adenosine,mechanism
+Dipyridamole,cholinesterase inhibitors,effect
+Cerubidine,doxorubicin,effect
+Cerubidine,doxorubicin,advise
+Cyclophosphamide,Cerubidine,effect
+Phospholine Iodide,cholinesterase inhibitors,effect
+Phospholine Iodide,succinylcholine,effect
+Phospholine Iodide,organophosphate,effect
+Phospholine Iodide,carbamate insecticide,effect
+erythromycin,loratadine,mechanism
+lithium,HALDOL,effect
+antipsychotic agents,CNS depressants,effect
+antipsychotic agents,anesthetics,effect
+antipsychotic agents,opiates,effect
+antipsychotic agents,alcohol,effect
+HALDOL,CNS depressants,effect
+HALDOL,anesthetics,effect
+HALDOL,opiates,effect
+HALDOL,alcohol,effect
+haloperidol,rifampin,mechanism
+rifampin,haloperidol,mechanism
+rifampin,haloperidol,advise
+rifampin,MEPRON,mechanism
+rifampin,MEPRON,advise
+tricyclic antidepressants,cimetidine,mechanism
+tricyclic antidepressants,cimetidine,effect
+tricyclic antidepressants,cimetidine,mechanism
+cimetidine,tricyclic antidepressants,mechanism
+tricyclic antidepressants,cimetidine,effect
+antidepressants,fluoxetine hydrochloride,mechanism
+nortriptyline,fluoxetine hydrochloride,mechanism
+reserpine,tricyclic antidepressant,effect
+nortriptyline hydrochloride,anticholinergic drugs,advise
+nortriptyline hydrochloride,sympathomimetic drugs,advise
+tricyclic antidepressants,antidepressants,advise
+tricyclic antidepressants,phenothiazines,advise
+tricyclic antidepressants,carbamazepine,advise
+tricyclic antidepressants,Type 1C antiarrhythmics,advise
+tricyclic antidepressants,propafenone,advise
+tricyclic antidepressants,flecainide,advise
+tricyclic antidepressants,encainide,advise
+tricyclic antidepressants,quinidine,advise
+cefditoren pivoxil,antacids,advise
+famotidine,cefditoren pivoxil,mechanism
+b-lactam antibiotics,cefditoren pivoxil,mechanism
+probenecid,cefditoren pivoxil,mechanism
+Auranofin,gold medication,advise
+Auranofin,Solganal,advise
+Auranofin,Myochrysine,advise
+Auranofin,penicillamine,advise
+Auranofin,Depen,advise
+Auranofin,Cuprimine,advise
+Acetaminophen,synthetic estrogens,mechanism
+hormonal contraceptives,acetaminophen,mechanism
+Acitretin,progestin,effect
+Aminoglutethimide,progestins,mechanism
+hormonal contraceptives,coumarin derivatives,effect
+Anticonvulsants,ethinyl estradiol,mechanism
+Anticonvulsants,progestins,mechanism
+carbamazepine,ethinyl estradiol,mechanism
+carbamazepine,progestins,mechanism
+felbamate,ethinyl estradiol,mechanism
+felbamate,progestins,mechanism
+phenobarbital,ethinyl estradiol,mechanism
+phenobarbital,progestins,mechanism
+phenytoin,ethinyl estradiol,mechanism
+phenytoin,progestins,mechanism
+topiramate,ethinyl estradiol,mechanism
+topiramate,progestins,mechanism
+ascorbic acid,synthetic estrogens,mechanism
+vitamin C,synthetic estrogens,mechanism
+Atorvastatin,norethindrone,mechanism
+Atorvastatin,ethinyl estradiol,mechanism
+hormonal contraceptives,benzodiazepines,mechanism
+hormonal contraceptives,alprazolam,mechanism
+hormonal contraceptives,chlordiazepoxide,mechanism
+hormonal contraceptives,diazepam,mechanism
+hormonal contraceptives,lorazepam,mechanism
+hormonal contraceptives,oxazepam,mechanism
+hormonal contraceptives,temazepam,mechanism
+hormonal contraceptives,clofibric acid,mechanism
+hormonal contraceptives,cyclosporine,mechanism
+Griseofulvin,combination hormonal contraceptives,mechanism
+hormonal contraceptives,morphine,mechanism
+Nevirapine,combination hormonal contraceptives,mechanism
+Ethinyl estradiol,prednisolone,mechanism
+Amprenavir,combination hormonal contraceptives,mechanism
+lopinavir,combination hormonal contraceptives,mechanism
+nelfinavir,combination hormonal contraceptives,mechanism
+ritonavir,combination hormonal contraceptives,mechanism
+Indinavir,combination hormonal contraceptives,mechanism
+Rifampin,ethinyl estradiol,mechanism
+Rifampin,progestins,mechanism
+Rifampin,norethindrone,mechanism
+hormonal contraceptives,salicylic acid,mechanism
+Combination hormonal contraceptives,selegiline,mechanism
+Ethinyl estradiol,theophylline,mechanism
+Tricyclic antidepressants,combination hormonal contraceptives,mechanism
+amitriptyline,combination hormonal contraceptives,mechanism
+imipramine,combination hormonal contraceptives,mechanism
+nortriptyline,combination hormonal contraceptives,mechanism
+combination hormonal contraceptives,caffeine,effect
+etanercept,anakinra,effect
+TNFa-blocking agents,anakinra,effect
+REMICADE,anakinra,effect
+theophylline,quinolone,mechanism
+norfloxacin,theophylline,effect
+cyclosporine,norfloxacin,mechanism
+Quinolones,anticoagulants,effect
+Quinolones,warfarin,effect
+norfloxacin,anticoagulants,effect
+norfloxacin,warfarin,effect
+quinolones,glyburide,effect
+norfloxacin,glyburide,effect
+probenecid,norfloxacin,mechanism
+nitrofurantoin,Norfloxacin,effect
+Multivitamins,norfloxacin,advise
+iron,norfloxacin,advise
+zinc,norfloxacin,advise
+antacids,norfloxacin,advise
+sucralfate,norfloxacin,advise
+Videx,norfloxacin,advise
+Didanosine,norfloxacin,advise
+quinolones,caffeine,mechanism
+isosorbide mononitrate,vasodilators,effect
+calcium channel blockers,organic nitrates,effect
+Probenecid,cephalosporins,mechanism
+eszopiclone,ethanol,effect
+eszopiclone,olanzapine,effect
+eszopiclone,ketoconazole,mechanism
+zopiclone,rifampicin,mechanism
+ERGOMAR,triacetyloleandomycin,mechanism
+triacetyloleandomycin,ergotamine,mechanism
+ERGOMAR,vasoconstrictor drugs,effect
+Tagamet,warfarin-type anticoagulants,mechanism
+Tagamet,phenytoin,mechanism
+Tagamet,propranolol,mechanism
+Tagamet,nifedipine,mechanism
+Tagamet,chlordiazepoxide,mechanism
+Tagamet,diazepam,mechanism
+Tagamet,tricyclic antidepressants,mechanism
+Tagamet,lidocaine,mechanism
+Tagamet,theophylline,mechanism
+Tagamet,metronidazole,mechanism
+anticoagulant,Tagamet,advise
+Tagamet,theophylline,mechanism
+Tagamet,Theo-Dur,mechanism
+heparin,Activase,effect
+vitamin K antagonists,Activase,effect
+acetylsalicylic acid,Activase,int
+dipyridamole,Activase,effect
+Abciximab,Activase,effect
+aminoglycoside,antibiotics,effect
+aminoglycoside,penicillins,effect
+aminoglycoside,cephalosporins,effect
+aminoglycoside,penicillin,mechanism
+nifedipine,beta-blocking agents,effect
+digoxin,nifedipine,int
+digoxin,nifedipine,advise
+digoxin,digoxin,mechanism
+digoxin,nifedipine,advise
+quinidine,nifedipine,mechanism
+coumarin anticoagulants,nifedipine,effect
+cimetidine,nifedipine,mechanism
+nifedipine,cimetidine,advise
+tetracyclines,anticoagulant,advise
+tetracyclines,penicillin,advise
+tetracyclines,aluminum,mechanism
+tetracyclines,calcium,mechanism
+tetracyclines,magnesium,mechanism
+tetracyclines,iron,mechanism
+tetracycline,bismuth subsalicylate,mechanism
+Barbiturates,doxycycline,mechanism
+carbamazepine,doxycycline,mechanism
+phenytoin,doxycycline,mechanism
+tetracycline,Penthrane,effect
+tetracycline,methoxyflurane,effect
+tetracycline,contraceptives,effect
+Clindamycin,neuromuscular blocking agents,effect
+clindamycin,erythromycin,effect
+decongestants,tricyclic antidepressants,advise
+anesthetics,tricyclic antidepressants,advise
+sympathomimetic amine,tricyclic antidepressants,advise
+epinephrine,tricyclic antidepressants,advise
+norepinephrine,tricyclic antidepressants,advise
+Imipramine hydrochloride,CNS depressant drugs,effect
+imipramine,cimetidine,mechanism
+imipramine,fluoxetine,mechanism
+imipramine,barbiturates,mechanism
+imipramine,phenytoin,mechanism
+SSRI,TCA,int
+glimepiride,aspirin,advise
+glimepiride,salicylate,advise
+glimepiride,magnesium/choline salicylate,advise
+glimepiride,Trilisate,advise
+glimepiride,salsalate,advise
+glimepiride,Disalcid,advise
+glimepiride,choline salicylate,advise
+glimepiride,Arthropan,advise
+glimepiride,magnesium salicylate,advise
+glimepiride,Magan,advise
+glimepiride,bismuth subsalicylate,advise
+glimepiride,Pepto-Bismol,advise
+dolasetron,cimetidine,mechanism
+dolasetron,rifampin,mechanism
+dolasetron mesylate,atenolol,mechanism
+diflunisal,warfarin,effect
+diflunisal,acenocoumarol,effect
+diflunisal,phenprocoumon,effect
+diflunisal,coumarins,mechanism
+diflunisal,anticoagulants,advise
+diflunisal,hydrochlorothiazide,mechanism
+Diflunisal,hydrochlorothiazide,effect
+Diflunisal,furosemide,effect
+antacids,diflunisal,mechanism
+diflunisal,acetaminophen,mechanism
+diflunisal,acetaminophen,advise
+diflunisal,acetaminophen,effect
+diflunisal,methotrexate,advise
+Nonsteroidal anti-inflammatory drugs,methotrexate,mechanism
+nonsteroial anti-inflammatory drugs,cyclosporine,mechanism
+NSAIDs,cyclosporine,advise
+diflunisal,indomethacin,mechanism
+indomethacin,diflunisal,effect
+indomethacin,diflunisal,advise
+diflunisal,NSAIDs,effect
+diflunisal,aspirin,mechanism
+diflunisal,sulindac,mechanism
+diflunisal,naproxen,mechanism
+AED,oxcarbazepine,mechanism
+phenytoin,Trileptal,mechanism
+Trileptal,phenytoin,advise
+phenobarbital,Trileptal,mechanism
+Trileptal,contraceptive,mechanism
+Trileptal,hormonal contraceptives,effect
+Trileptal,felodipine,mechanism
+Lithium,diuretics,mechanism
+EDECRIN,aminoglycoside,effect
+EDECRIN,cephalosporin antibiotics,effect
+ethacrynic acid,warfarin,mechanism
+non- steroidal antiinflammatory agent,loop,effect
+non- steroidal antiinflammatory agent,potassium- sparing,effect
+non- steroidal antiinflammatory agent,thiazide diuretics,effect
+EDECRIN,non- steroidal anti- inflammatory agents,effect
+terfenadine,Itraconazole,mechanism
+ketoconazole,astemizole,mechanism
+itraconazole,astemizole,mechanism
+astemizole,itraconazole,advise
+ketoconazole,cisapride,mechanism
+ketoconazole,cisapride,effect
+itraconazole,cisapride,mechanism
+Itraconazole,cisapride,advise
+Itraconazole,midazolam,mechanism
+Itraconazole,triazolam,mechanism
+Itraconazole,cyclosporine,mechanism
+Itraconazole,tacrolimus,mechanism
+Itraconazole,digoxin,mechanism
+Cyclosporine,Itraconazole,advise
+tacrolimus,Itraconazole,advise
+digoxin,Itraconazole,advise
+HMG-CoA reductase inhibitors,immunosuppressive drugs,effect
+HMG-CoA reductase inhibitors,cyclosporine,effect
+Itraconazole,phenytoin,mechanism
+Itraconazole,rifampin,mechanism
+Itraconazole,phenytoin,mechanism
+phenytoin,Itraconazole,advise
+Itraconazole,coumarin,effect
+Itraconazole,coumarin,advise
+azole antifungal agents,isoniazid,mechanism
+Itraconazole,isoniazid,advise
+azole antifungal agents,hypoglycemic agents,effect
+Itraconazole,hypoglycemic agents,advise
+Itraconazole,quinidine,effect
+Itraconazole,dihydropyridine calcium channel blockers,effect
+sodium nitroprusside,hypotensive drugs,effect
+sodium nitroprusside,ganglionic blocking agents,effect
+sodium nitroprusside,anesthetics,effect
+Isoflurane,NUROMAX,mechanism
+enflurane,NUROMAX,mechanism
+halothane,NUROMAX,mechanism
+NUROMAX,antibiotics,effect
+NUROMAX,aminoglycosides,effect
+NUROMAX,tetracyclines,effect
+NUROMAX,bacitracin,effect
+NUROMAX,polymyxins,effect
+NUROMAX,lincomycin,effect
+NUROMAX,clindamycin,effect
+NUROMAX,colistin,effect
+NUROMAX,sodium colistimethate,effect
+NUROMAX,magnesium,effect
+NUROMAX,lithium,effect
+NUROMAX,anesthetics,effect
+NUROMAX,procainamide,effect
+NUROMAX,quinidine,effect
+nondepolarizing neuromuscular blocking agents,phenytoin,effect
+nondepolarizing neuromuscular blocking agents,carbamazepine,effect
+NUROMAX,phenytoin,effect
+NUROMAX,carbamazepine,effect
+ENBREL,anakinra,effect
+ENBREL,anakinra,effect
+sulfasalazine,ENBREL,effect
+benzodiazepines,barbiturates,effect
+benzodiazepines,alcohol,effect
+lorazepam,barbiturates,effect
+lorazepam,alcohol,effect
+Lorazepam,ethyl alcohol,effect
+Lorazepam,phenothiazines,effect
+Lorazepam,barbiturates,effect
+Lorazepam,MAO inhibitors,effect
+Lorazepam,antidepressants,effect
+benzodiazepines,ethyl alcohol,effect
+benzodiazepines,phenothiazines,effect
+benzodiazepines,barbiturates,effect
+benzodiazepines,MAO inhibitors,effect
+benzodiazepines,antidepressants,effect
+scopolamine,lorazepam,effect
+anticoagulants,Atromid-S,advise
+Atromid-S,phenytoin,mechanism
+Atromid-S,tolbutamide,mechanism
+tolbutamide,Atromid-S,effect
+fibrate,lovastatin,effect
+lovastatin,fibrate,effect
+lovastatin,fibrates,advise
+UROXATRAL,alpha-blockers,advise
+warfarin,flutamide,effect
+EULEXIN,warfarin,advise
+NSAIDs,ACE inhibitors,effect
+naproxen,aspirin,advise
+naproxen,aspirin,advise
+Naproxen,propranolol,effect
+Naproxen,beta-blockers,effect
+NSAIDs,propranolol,effect
+NSAIDs,beta-blockers,effect
+Probenecid,naproxen,mechanism
+naproxen,methotrexate,advise
+Naproxen,methotrexate,mechanism
+naproxen sodium,methotrexate,mechanism
+NSAIDs,methotrexate,mechanism
+ergotamine,AXERT,advise
+ergot-type medications,AXERT,advise
+dihydroergotamine,AXERT,advise
+methysergide,AXERT,advise
+moclobemide,almotriptan,mechanism
+5-HT1B/1D agonists,AXERT,advise
+SSRIs,5-HT1 agonists,effect
+fluoxetine,5-HT1 agonists,effect
+fluvoxamine,5-HT1 agonists,effect
+paroxetine,5-HT1 agonists,effect
+sertraline,5-HT1 agonists,effect
+AXERT,SSRI,advise
+almotriptan,verapamil,mechanism
+almotriptan,ketoconazole,mechanism
+itraconazole,almotriptan,advise
+ritonavir,almotriptan,advise
+erythromycin,almotriptan,advise
+DOSTINEX,phenothiazines,advise
+DOSTINEX,butyrophenones,advise
+DOSTINEX,thioxanthines,advise
+DOSTINEX,metoclopramide,advise
+NSAIDs,ACE-inhibitors,effect
+NSAIDs,ACE-inhibitors,advise
+Lodine,aspirin,mechanism
+Lodine,aspirin,advise
+Lodine,cyclosporine,mechanism
+Lodine,digoxin,mechanism
+Lodine,methotrexate,mechanism
+NSAIDs,cyclosporine,mechanism
+NSAIDs,digoxin,mechanism
+NSAIDs,methotrexate,mechanism
+Lodine,furosemide,effect
+Lodine,thiazides,effect
+NSAIDs,lithium,mechanism
+NSAIDs,lithium,effect
+Phenylbutazone,etodolac,mechanism
+etodolac,phenylbutazone,advise
+warfarin,NSAIDs,effect
+warfarin,Lodine,mechanism
+warfarin,etodolac,mechanism
+etodolac,warfarin,effect
+SSRI,TCA,effect
+TCAs,SSRIs,advise
+amitriptyline HCl,anticholinergic,effect
+tricyclic antidepressants,anticholinergic,effect
+Cimetidine,tricyclic antidepressants,mechanism
+tricyclic antidepressants,cimetidine,effect
+tricyclic antidepressants,cimetidine,mechanism
+tricyclic antidepressants,cimetidine,mechanism
+ethchlorvynol,amitriptyline HCl,effect
+MAO inhibitors,hydralazine,advise
+antihypertensive drugs,diazoxide,effect
+antihypertensive drugs,hydralazine,effect
+diazoxide,hydralazine,effect
+Propranolol,hydralazine,mechanism
+NSAIDs,hydralazine,effect
+bepridil hydrochloride,digoxin,mechanism
+Anti-arrhythmics,bepridil hydrochloride,effect
+tricyclic anti-depressants,bepridil hydrochloride,effect
+Cardiac glycosides,bepridil hydrochloride,effect
+reserpine,beta blocking agents,effect
+BREVIBLOC,warfarin,mechanism
+digoxin,BREVIBLOC,mechanism
+BREVIBLOC,morphine,mechanism
+succinylcholine,BREVIBLOC,effect
+BREVIBLOC,digoxin,advise
+BREVIBLOC,morphine,advise
+BREVIBLOC,succinylcholine,advise
+BREVIBLOC,warfarin,advise
+BREVIBLOC,verapamil,advise
+BREVIBLOC,dopamine,advise
+BREVIBLOC,epinephrine,advise
+BREVIBLOC,norepinephrine,advise
+Etonogestrel,acetaminophen,int
+Etonogestrel,Tylenol,int
+Etonogestrel,antibiotics,int
+Etonogestrel,ampicillin,int
+Etonogestrel,tetracycline,int
+Etonogestrel,anticonvulsants,int
+Etonogestrel,Dilantin,int
+Etonogestrel,Phenobarbital,int
+Etonogestrel,Tegretol,int
+Etonogestrel,Trileptal,int
+Etonogestrel,Topamax,int
+Etonogestrel,Felbatol,int
+Etonogestrel,antifungals,int
+Etonogestrel,Gris-PEG,int
+Etonogestrel,Nizoral,int
+Etonogestrel,Sporanox,int
+Etonogestrel,atorvastatin,int
+Etonogestrel,Lipitor,int
+Etonogestrel,clofibrate,int
+Etonogestrel,Atromid-S,int
+Etonogestrel,cyclosporine,int
+Etonogestrel,Neoral,int
+Etonogestrel,Sandimmune,int
+Etonogestrel,protease inhibitors,int
+Etonogestrel,Agenerase,int
+Etonogestrel,Crixivan,int
+Etonogestrel,Fortovase,int
+Etonogestrel,Invirase,int
+Etonogestrel,Kaletra,int
+Etonogestrel,Norvir,int
+Etonogestrel,Viracept,int
+Etonogestrel,morphine,int
+Etonogestrel,Astramorph,int
+Etonogestrel,Kadian,int
+Etonogestrel,MS Contin,int
+Etonogestrel,phenylbutazone,int
+Etonogestrel,prednisolone,int
+Etonogestrel,Prelone,int
+Etonogestrel,rifadin,int
+Etonogestrel,rifampin,int
+Etonogestrel,temazepam,int
+Etonogestrel,theophylline,int
+Etonogestrel,Theo-Dur,int
+Etonogestrel,vitamin C,int
+piperazine,phenothiazine,effect
+piperazine,pyrantel,effect
+Fluvoxamine,alosetron,mechanism
+alosetron,fluvoxamine,advise
+alosetron,quinolone antibiotics,advise
+alosetron,cimetidine,advise
+Ketoconazole,alosetron,mechanism
+alosetron,ketoconazole,advise
+alosetron,clarithromycin,advise
+alosetron,telithromycin,advise
+alosetron,protease inhibitors,advise
+alosetron,voriconazole,advise
+alosetron,itraconazole,advise
+alosetron,isoniazid,effect
+alosetron,procainamide,effect
+alosetron,hydralazine,effect
+cinacalcet,amitriptyline,mechanism
+ketoconazole,cinacalcet,mechanism
+Sensipar,ketoconazole,advise
+Sensipar,erythromycin,advise
+Sensipar,itraconazole,advise
+Codeine,narcotic analgesics,effect
+Codeine,anesthetics,effect
+Codeine,phenothiazines,effect
+Codeine,tranquilizers,effect
+Codeine,sedative-hypnotics,effect
+Codeine,CNS depressants,effect
+Codeine,alcohol,effect
+vasopressors,monoamine oxidase (MAO) inhibitors,advise
+Epinephrine,sympathomimetic drugs,advise
+Epinephrine,isoproterenol,advise
+epinephrine,cyclopropane,effect
+epinephrine,halogenated hydrocarbon general anesthetics,effect
+epinephrine,halothane,effect
+Epinephrine,digitalis,advise
+Epinephrine,glycosides,advise
+Diuretic agents,epinephrine,effect
+Epinephrine,guanethidine,effect
+anticonvulsant agents,cisplatin,mechanism
+heparin sodium,dicumarol,advise
+heparin sodium,warfarin sodium,advise
+acetylsalicylic acid,heparin sodium,effect
+dextran,heparin sodium,effect
+phenylbutazone,heparin sodium,effect
+ibuprofen,heparin sodium,effect
+indomethacin,heparin sodium,effect
+dipyridamole,heparin sodium,effect
+hydroxychloroquine,heparin sodium,effect
+heparin,antithrombin III,effect
+heparin,antithrombin III,advise
+Digitalis,heparin sodium,effect
+tetracyclines,heparin sodium,effect
+nicotine,heparin sodium,effect
+antihistamines,heparin sodium,effect
+Accutane,vitamin A,effect
+Accutane,tetracyclines,advise
+Accutane,tetracyclines,effect
+progesterone,Accutane,effect
+ROMAZICON,cyclic antidepressants,effect
+ROMAZICON,benzodiazepine,effect
+ROMAZICON,benzodiazepines,effect
+zopiclone,ROMAZICON,effect
+Lofexidine,alcohol,effect
+Lofexidine,barbiturates,effect
+Lofexidine,sedatives,effect
+Lofexidine,anti-hypertensive drug,effect
+tricyclic antidepressants,lofexidine,effect
+Trecator,isoniazid,mechanism
+Trecator,antituberculous drugs,effect
+ethionamide,cycloserine,effect
+Sulfacetamide,silver,int
+Cholestyramine,phenylbutazone,mechanism
+Cholestyramine,warfarin,mechanism
+Cholestyramine,thiazide diuretics,mechanism
+Cholestyramine,propranolol,mechanism
+Cholestyramine,tetracycline,mechanism
+Cholestyramine,penicillin G,mechanism
+Cholestyramine,phenobarbital,mechanism
+Cholestyramine,thyroxine,mechanism
+Cholestyramine,estrogens,mechanism
+Cholestyramine,progestins,mechanism
+Cholestyramine,digitalis,mechanism
+cholestyramine,digitalis,mechanism
+SSRI,TCA,int
+TCAs,SSRIs,advise
+quinidine,doxepin,mechanism
+selective serotonin reuptake inhibitors,doxepin,mechanism
+SSRIs,doxepin,mechanism
+MAO inhibitors,SINEQUAN,advise
+Cimetidine,tricyclic antidepressants,mechanism
+tricyclic antidepressant,cimetidine,effect
+tricyclic antidepressant,cimetidine,mechanism
+cimetidine,tricyclic antidepressant,mechanism
+alcohol,SINEQUAN,mechanism
+tolazamide,doxepin,effect
+buspirone hydrochloride,MAO inhibitors,advise
+trazodone hydrochloride,buspirone HCl,effect
+Desyrel,buspirone HCl,effect
+buspirone HCl,haloperidol,mechanism
+buspirone,warfarin,effect
+buspirone,digoxin,mechanism
+epinephrine,monoamine oxidase inhibitors,effect
+epinephrine,tricyclic antidepressants,effect
+norepinephrine,monoamine oxidase inhibitors,effect
+norepinephrine,tricyclic antidepressants,effect
+Phenothiazines,epinephrine,effect
+butyrophenones,epinephrine,effect
+cephalosporins,aminoglycosides,effect
+isosorbide dinitrate,vasodilators,effect
+TAXOL,cisplatin,effect
+TAXOL,cisplatin,mechanism
+paclitaxel,doxorubicin,mechanism
+cyclosporin,TAXOL,advise
+teniposide,TAXOL,advise
+calcium,Ibandronate,mechanism
+aluminum,Ibandronate,mechanism
+magnesium,Ibandronate,mechanism
+iron,Ibandronate,mechanism
+Ibandronate,antacids,advise
+Ibandronate,vitamins,advise
+aspirin,Ibandronate,advise
+NSAIDs,Ibandronate,advise
+felodipine,anticonvulsant,mechanism
+felodipine,phenytoin,mechanism
+felodipine,carbamazepine,mechanism
+felodipine,phenobarbital,mechanism
+amiodarone,indinavir,mechanism
+amiodarone,protease inhibitor,advise
+Histamine H2 antagonists,Cimetidine,mechanism
+amiodarone,digitalis,advise
+Curariform muscle relaxants,Coly-Mycin M,effect
+tubocurarine,Coly-Mycin M,effect
+succinylcholine,Coly-Mycin M,effect
+gallamine,Coly-Mycin M,effect
+decamethonium,Coly-Mycin M,effect
+sodium citrate,Coly-Mycin M,effect
+Sodium cephalothin,Coly-Mycin M,effect
+sodium cephalothin,Coly-Mycin M,advise
+Cholestyramine,fat soluble vitamins,mechanism
+thiazides,vitamin D,effect
+Vitamin D,digitalis,advise
+Ketoconazole,vitamin D,mechanism
+vitamin D,corticosteroids,effect
+Magnesium,vitamin D,effect
+antacids,vitamin D,effect
+ELSPAR,methotrexate,effect
+methotrexate,ELSPAR,advise
+L-glutamine,human growth hormone,mechanism
+L-glutamine,indomethacin,effect
+methotrexate,L-glutamine,effect
+methotrexate,L-glutamine,effect
+L-glutamine,paclitaxel,effect
+ETHYOL,antihypertensive medications,advise
+Geocillin,probenecid,mechanism
+carbenicillin indanyl sodium,probenecid,mechanism
+rifampicin,exemestane,mechanism
+phenytoin,exemestane,mechanism
+carbamazepine,exemestane,mechanism
+phenobarbital,exemestane,mechanism
+probenecid,penciclovir,mechanism
+Gastrointestinal acidifying agents,amphetamines,mechanism
+guanethidine,amphetamines,mechanism
+reserpine,amphetamines,mechanism
+glutamic acid HCl,amphetamines,mechanism
+ascorbic acid,amphetamines,mechanism
+Urinary acidifying agents,amphetamine,mechanism
+ammonium chloride,amphetamine,mechanism
+sodium acid phosphate,amphetamine,mechanism
+Adrenergic blockers,amphetamines,effect
+sodium bicarbonate,amphetamines,mechanism
+acetazolamide,amphetamine,mechanism
+thiazides,amphetamine,mechanism
+Amphetamines,tricyclic,effect
+Amphetamines,sympathomimetic agents,effect
+d-amphetamine,desipramine,mechanism
+d-amphetamine,protriptyline,mechanism
+d-amphetamine,tricyclics,mechanism
+MAOI antidepressants,amphetamine,mechanism
+furazolidone,amphetamine,mechanism
+Amphetamines,antihistamines,effect
+Amphetamines,antihypertensives,effect
+Chlorpromazine,amphetamines,effect
+Amphetamines,ethosuximide,mechanism
+Haloperidol,amphetamines,effect
+amphetamines,lithium carbonate,effect
+Amphetamines,meperidine,effect
+amphetamines,acidifying agents,mechanism
+Amphetamines,norepinephrine,effect
+Amphetamines,phenobarbital,mechanism
+Amphetamines,phenytoin,mechanism
+propoxyphene,amphetamine,effect
+Amphetamines,veratrum alkaloids,effect
+Amphetamines,corticosteroid,int
+doxazosin,cimetidine,mechanism
+progestin,phenytoin,effect
+progestin,carbamazepine,effect
+progestin,barbiturates,effect
+progestin,rifampin,effect
+Oxytocin,dinoprost,effect
+oxytocics,dinoprost,effect
+Corticotropin,diuretic,effect
+MAO inhibitors,antihistamines,effect
+Antihistamines,alcohol,effect
+Antihistamines,CNS depressants,effect
+Antihistamines,hypnotics,effect
+Antihistamines,sedatives,effect
+Antihistamines,tranquilizers,effect
+Antihistamines,antianxiety agents,effect
+SPRYCEL,ketoconazole,mechanism
+SPRYCEL,itraconazole,mechanism
+SPRYCEL,erythromycin,mechanism
+SPRYCEL,clarithromycin,mechanism
+SPRYCEL,ritonavir,mechanism
+SPRYCEL,atazanavir,mechanism
+SPRYCEL,indinavir,mechanism
+SPRYCEL,nefazodone,mechanism
+SPRYCEL,nelfinavir,mechanism
+SPRYCEL,saquinavir,mechanism
+SPRYCEL,telithromycin,mechanism
+SPRYCEL,antacids,advise
+antacid,SPRYCEL,advise
+H2 blockers,dasatinib,effect
+proton pump inhibitors,dasatinib,effect
+famotidine,dasatinib,effect
+omeprazole,dasatinib,effect
+H2 blockers,SPRYCEL,advise
+proton pump inhibitors,SPRYCEL,advise
+H2 blockers,SPRYCEL,advise
+proton pump inhibitors,SPRYCEL,advise
+alfentanil,SPRYCEL,advise
+astemizole,SPRYCEL,advise
+terfenadine,SPRYCEL,advise
+cisapride,SPRYCEL,advise
+cyclosporine,SPRYCEL,advise
+fentanyl,SPRYCEL,advise
+pimozide,SPRYCEL,advise
+quinidine,SPRYCEL,advise
+sirolimus,SPRYCEL,advise
+tacrolimus,SPRYCEL,advise
+ergot alkaloids,SPRYCEL,advise
+ergotamine,SPRYCEL,advise
+dihydroergotamine,SPRYCEL,advise
+aspirin,nizatidine,mechanism
+Sulfapyridine,Acetaminophen,int
+Sulfapyridine,Tylenol,int
+antidiabetics,sulfapyridine,effect
+methotrexate,sulfapyridine,effect
+methyldopa,sulfapyridine,effect
+phenytoin,sulfapyridine,effect
+Tetracycline,penicillin,effect
+Steroids,edetate calcium disodium,effect
+Edetate calcium disodium,zinc insulin,mechanism
+Bezalip,anticoagulants of the coumarin type,effect
+Bezalip retard,anticoagulants of the coumarin type,effect
+anticoagulant,Bezalip,advise
+anticoagulant,Bezalip,advise
+sulphonylureas,Bezalip,effect
+sulphonylureas,Bezalip retard,effect
+insulin,Bezalip,effect
+insulin,Bezalip retard,effect
+immuno-suppressant,bezafibrate,effect
+Bezalip,anion-exchange resins,advise
+Bezalip,cholestryramine,advise
+Bezalip retard,anion-exchange resins,advise
+Bezalip retard,cholestryramine,advise
+Perhexiline hydrogen maleate,Bezalip,advise
+Perhexiline hydrogen maleate,Bezalip retard,advise
+MAO-inhibitors,Bezalip,advise
+MAO-inhibitors,Bezalip retard,advise
+hydrochlorothiazide,anionic exchange resins,mechanism
+cholestyramine,hydrochlorothiazide,mechanism
+colestipol,hydrochlorothiazide,mechanism
+Lithium,diuretics,advise
+Diuretic agents,lithium,mechanism
+Diuretic agents,lithium,effect
+lithium,Hydrochlorothiazide,advise
+non-steroidal anti-inflammatory agent,loop,effect
+non-steroidal anti-inflammatory agent,potassium-sparing,effect
+non-steroidal anti-inflammatory agent,thiazide diuretics,effect
+Hydrochlorothiazide,non-steroidal anti-inflammatory agents,advise
+amphotericin B,Antineoplastic agents,effect
+Corticosteroids,amphotericin B,effect
+Corticotropin,amphotericin B,effect
+ACTH,amphotericin B,effect
+amphotericin B,digitalis,effect
+amphotericin B,flucytosine,effect
+imidazoles,amphotericin B,effect
+amphotericin B,skeletal muscle relaxants,effect
+amphotericin B,tubocurarine,effect
+amphotericin B,leukocyte transfusions,effect
+ethambutol,aluminum hydroxide,mechanism
+ethambutol,aluminum hydroxide,advise
+calcium acetate,digitalis glycosides,effect
+Dopamine D2 receptor antagonists,levodopa,effect
+phenothiazines,levodopa,effect
+butyrophenones,levodopa,effect
+risperidone,levodopa,effect
+isoniazid,levodopa,effect
+levodopa,phenytoin,effect
+levodopa,papaverine,effect
+Iron,carbidopa,mechanism
+Iron,levodopa,mechanism
+metoclopramide,levodopa,mechanism
+thiazide diuretics,dihydrotachysterol,effect
+terfenadine,dirithromycin,mechanism
+terfenadine,dirithromycin,effect
+erythromycin,terfenadine,int
+terfenadine,macrolide antibiotics,effect
+macrolides,terfenadine,advise
+dirithromycin,antacids,mechanism
+dirithromycin,H 2 -receptor antagonists,mechanism
+Erythromycin,triazolam,mechanism
+Erythromycin,triazolam,effect
+erythromycin,digoxin,mechanism
+erythromycin,anticoagulants,effect
+erythromycin,ergotamine,effect
+erythromycin,dihydroergotamine,effect
+erythromycin,cyclosporine,int
+erythromycin,hexobarbital,int
+erythromycin,carbamazepine,int
+erythromycin,alfentanil,int
+erythromycin,disopyramide,int
+erythromycin,phenytoin,int
+erythromycin,bromocriptine,int
+erythromycin,valproate,int
+erythromycin,astemizole,int
+erythromycin,lovastatin,int
+Kineret,etanercept,effect
+Kineret,etanercept,effect
+Sonata,ethanol,effect
+Sonata,imipramine,effect
+Sonata,thioridazine,effect
+zaleplon,promethazine,mechanism
+rifampin,zaleplon,mechanism
+zaleplon,erythromycin,mechanism
+ketoconazole,zaleplon,mechanism
+Cimetidine,zaleplon,mechanism
+Sonata,cimetidine,mechanism
+Indinavir,amprenavir,mechanism
+Saquinavir,amprenavir,mechanism
+Nelfinavir,amprenavir,mechanism
+amprenavir,methadone,effect
+amprenavir,methadone,mechanism
+Amprenavir,ritonavir,effect
+Amprenavir,ritonavir,advise
+Bismuth subsalicylate,enoxacin,mechanism
+enoxacin,bismuth subsalicylate,advise
+Enoxacin,methylxanthines,mechanism
+enoxacin,caffeine,mechanism
+caffeine,enoxacin,mechanism
+caffeine,enoxacin,effect
+cyclosporine,quinolone class,mechanism
+Enoxacin,digoxin,mechanism
+enoxacin,digoxin,effect
+enoxacin,fenbufen,effect
+zinc,quinolone,mechanism
+aluminum hydroxide,enoxacin,mechanism
+magnesium hydroxide,enoxacin,mechanism
+enoxacin,ranitidine,mechanism
+Enoxacin,methylxanthines,mechanism
+Enoxacin,theophylline,mechanism
+theophylline,enoxacin,effect
+Quinolones,R-warfarin,mechanism
+enoxacin,R-warfarin,mechanism
+warfarin,enoxacin,advise
+ZEBETA,beta-blocking agents,advise
+reserpine,ZEBETA,effect
+guanethidine,ZEBETA,effect
+ZEBETA,clonidine,advise
+ZEBETA,myocardial depressants,advise
+ZEBETA,calcium antagonists,advise
+ZEBETA,phenylalkylamine,advise
+ZEBETA,verapamil,advise
+ZEBETA,benzothiazepine,advise
+ZEBETA,diltiazem,advise
+ZEBETA,antiarrhythmic agents,advise
+ZEBETA,disopyramide,advise
+rifampin,ZEBETA,mechanism
+central nervous system depressants,heroin,effect
+heroin,central nervous system depressants,effect
+heroin,alcohol,effect
+heroin,benzodiazepines,effect
+heroin,diazepam,effect
+heroin,Valium,effect
+heroin,methadone,effect
+Cocaine,heroin,effect
+TNF antagonist,ORENCIA,effect
+ORENCIA,TNF antagonists,advise
+ORENCIA,anakinra,advise
+FOSCAVIR,pentamidine,int
+FOSCAVIR,pentamidine,effect
+FOSCAVIR,aminoglycosides,advise
+FOSCAVIR,amphotericin B,advise
+FOSCAVIR,pentamidine,advise
+Dimenhydrinate,apomorphine,effect
+clonidine hydrochloride,tricyclic antidepressants,effect
+Clonidine hydrochloride,alcohol,effect
+Clonidine hydrochloride,barbiturates,effect
+Clonidine hydrochloride,sedatives,effect
+Amitriptyline,clonidine,effect
+Clonidine,alcohol,effect
+Clonidine,barbiturates,effect
+Clonidine,sedating drugs,effect
+Narcotic analgesics,clonidine,effect
+Tricyclic antidepressants,clonidine,effect
+Beta blockers,clonidine,effect
+clonidine,digitalis,advise
+clonidine,calcium channel blockers,advise
+clonidine,beta-blockers,advise
+fluphenazine,clonidine,effect
+clonidine,anesthetics,effect
+Simulect,azathioprine,mechanism
+Simulect,mycophenolate mofetil,mechanism
+COUMARIN ANTICOAGULANTS,TRICOR,advise
+TRICOR,HMG-CoA reductase inhibitors,advise
+TRICOR,bile acid binding resin,mechanism
+cyclosporine,fibrate drugs,effect
+cyclosporine,TRICOR,effect
+TRICOR,immunosuppressants,advise
+fenofibrate,bile acid binding resin,advise
+fenofibrate,pravastatin,mechanism
+TRICOR,pravastatin,mechanism
+fenofibrate,atorvastatin,mechanism
+TRICOR,atorvastatin,mechanism
+Cytosine arabinoside,flucytosine,effect
+danazol,lovastatin,effect
+amiodarone,HMG-CoA reductase inhibitor class,effect
+verapamil,HMG-CoA reductase inhibitor class,effect
+HMG-CoA reductase inhibitor,warfarin,effect
+coumarin anticoagulant,lovastatin,effect
+anticoagulants,lovastatin,advise
+antihistamines,CNS depressants,effect
+antihistamines,barbiturates,effect
+antihistamines,tranquilizers,effect
+antihistamines,alcohol,effect
+antihistamines,CNS depressant drugs,advise
+Monoamine oxidase (MAO) inhibitors,antihistamines,effect
+Barbiturates,contraceptives,effect
+Barbiturates,antibiotics,effect
+Barbiturates,quinidine,effect
+Barbiturates,theophylline,effect
+Barbiturates,corticosteroids,effect
+Barbiturates,anticoagulants,effect
+Barbiturates,beta blockers,effect
+Ocupress,beta-adrenergic blocking agent,advise
+beta-blocker,reserpine,advise
+cephalosporins,aminoglycoside antibiotics,effect
+cephalosporins,diuretics,effect
+cephalosporins,furosemide,effect
+Chloramphenicol,beta-lactam antibiotics,effect
+Chloramphenicol,ceftazidime,effect
+fenoldopam,beta-blockers,advise
+cholestyramine,thiazide diuretics,effect
+colestipol,thiazide diuretics,effect
+diuretics,PRINIVIL,effect
+diuretic,PRINIVIL,effect
+diuretic,PRINIVIL,advise
+diuretic,PRINIVIL,effect
+ACE inhibitor,diuretic,advise
+non-steroidal anti-inflammatory drugs,lisinopril,effect
+NSAIDs,ACE inhibitors,effect
+NSAIDs,lisinopril,effect
+NSAIDs,ACE inhibitors,advise
+PRINIVIL,thiazide-type diuretics,effect
+PRINIVIL,potassium-sparing diuretics,effect
+PRINIVIL,spironolactone,effect
+PRINIVIL,triamterene,effect
+PRINIVIL,amiloride,effect
+PRINIVIL,potassium,effect
+lithium,ACE inhibitors,effect
+lithium,ACE inhibitor,effect
+PRINIVIL,lithium,advise
+MYOBLOC,aminoglycosides,advise
+MYOBLOC,curare-like compounds,advise
+quinidine,carvedilol,effect
+fluoxetine,carvedilol,effect
+paroxetine,carvedilol,effect
+propafenone,carvedilol,effect
+agents with b-blocking properties,reserpine,effect
+agents with b-blocking properties,monoamine oxidase inhibitors,effect
+clonidine,agents with b-blocking properties,effect
+agents with b-blocking properties,clonidine,advise
+cyclosporine,carvedilol,mechanism
+cyclosporine,carvedilol,advise
+carvedilol,cyclosporine,advise
+digoxin,carvedilol,mechanism
+digoxin,COREG,effect
+digoxin,COREG,advise
+Rifampin,carvedilol,mechanism
+COREG,diltiazem,effect
+COREG,verapamil,advise
+COREG,diltiazem,advise
+Agents with b-blocking properties,insulin,effect
+Agents with b-blocking properties,hypoglycemics,effect
+Isoproterenol hydrochloride,epinephrine,advise
+ISUPREL,anesthetics,advise
+ISUPREL,halothane,advise
+Clozapine,alcohol,effect
+clozapine,benzodiazepine,advise
+clozapine,psychotropic drug,advise
+Clozapine,antihypertensive drugs,effect
+Clozapine,atropine,effect
+Phenytoin,Clozapine,mechanism
+nicotine,Clozapine,mechanism
+rifampin,Clozapine,mechanism
+Cimetidine,Clozapine,mechanism
+caffeine,Clozapine,mechanism
+erythromycin,Clozapine,mechanism
+Clozapine,carbamazepine,advise
+carbamazepine,Clozapine,mechanism
+Paroxetine,clozapine,mechanism
+clozapine,paroxetine,mechanism
+clozapine,fluoxetine,mechanism
+clozapine,sertraline,mechanism
+Clozapine,fluvoxamine,advise
+clozapine,antidepressants,advise
+clozapine,phenothiazines,advise
+clozapine,carbamazepine,advise
+clozapine,Type 1C antiarrhythmics,advise
+clozapine,propafenone,advise
+clozapine,flecainide,advise
+clozapine,encainide,advise
+clozapine,quinidine,advise
+cephalosporins,aminoglycoside antibiotics,effect
+Probenecid,acetaminophen,mechanism
+Probenecid,acyclovir,mechanism
+Probenecid,angiotensin-converting enzyme inhibitors,mechanism
+Probenecid,aminosalicylic acid,mechanism
+Probenecid,barbiturates,mechanism
+Probenecid,benzodiazepines,mechanism
+Probenecid,bumetanide,mechanism
+Probenecid,clofibrate,mechanism
+Probenecid,methotrexate,mechanism
+Probenecid,famotidine,mechanism
+Probenecid,furosemide,mechanism
+Probenecid,nonsteroidal anti-inflammatory,mechanism
+Probenecid,theophylline,mechanism
+Probenecid,zidovudine,mechanism
+Zidovudine,probenecid,advise
+VISTIDE,aminoglycosides,advise
+VISTIDE,tobramycin,advise
+VISTIDE,gentamicin,advise
+VISTIDE,amikacin,advise
+VISTIDE,amphotericin B,advise
+VISTIDE,foscarnet,advise
+VISTIDE,pentamidine,advise
+VISTIDE,vancomycin,advise
+VISTIDE,non-steroidal anti-inflammatory agents,advise
+halofantrine,Mefloquine,advise
+Mefloquine,quinine,effect
+Mefloquine,quinidine,effect
+Mefloquine,chloroquine,effect
+Mefloquine,anti-arrhythmic,effect
+Mefloquine,beta-adrenergic blocking agents,effect
+Mefloquine,calcium channel blockers,effect
+Mefloquine,antihistamines,effect
+Mefloquine,H1-blocking agents,effect
+Mefloquine,tricyclic antidepressants,effect
+Mefloquine,phenothiazines,effect
+anticonvulsant,Mefloquine,effect
+valproic acid,Mefloquine,effect
+carbamazepine,Mefloquine,effect
+phenobarbital,Mefloquine,effect
+phenytoin,Mefloquine,effect
+Mefloquine,live typhoid vaccines,effect
+Mefloquine,anticoagulants,advise
+PRECEDEX,anesthetics,effect
+PRECEDEX,sedatives,effect
+PRECEDEX,hypnotics,effect
+PRECEDEX,opioids,effect
+PRECEDEX,anesthetic,advise
+PRECEDEX,sedative,advise
+PRECEDEX,hypnotic,advise
+PRECEDEX,opioid,advise
+diuretics,fosinopril sodium,effect
+diuretic,fosinopril sodium,effect
+Fosinopril sodium,thiazide diuretics,effect
+ACE inhibitors,lithium,effect
+antacid,fosinopril,mechanism
+aluminum hydroxide,fosinopril,mechanism
+magnesium hydroxide,fosinopril,mechanism
+simethicone,fosinopril,mechanism
+antacids,fosinopril,mechanism
+Lincomycin,neuromuscular blocking agents,effect
+lincomycin,erythromycin,effect
+NIMBEX,succinylcholine,effect
+NIMBEX,succinylcholine,effect
+succinylcholine,NIMBEX,effect
+Isoflurane,NIMBEX,effect
+Isoflurane,NIMBEX,effect
+enflurane,NIMBEX,effect
+enflurane,NIMBEX,effect
+nitrous oxide,NIMBEX,effect
+nitrous oxide,NIMBEX,effect
+enflurane,NIMBEX,advise
+isoflurane,NIMBEX,advise
+nondepolarizing agents,NIMBEX,effect
+nondepolarizing agents,antibiotics,effect
+nondepolarizing agents,aminoglycosides,effect
+nondepolarizing agents,tetracyclines,effect
+nondepolarizing agents,bacitracin,effect
+nondepolarizing agents,polymyxins,effect
+nondepolarizing agents,lincomycin,effect
+nondepolarizing agents,clindamycin,effect
+nondepolarizing agents,colistin,effect
+nondepolarizing agents,sodium colistemethate,effect
+nondepolarizing agents,magnesium,effect
+nondepolarizing agents,lithium,effect
+nondepolarizing agents,anesthetics,effect
+nondepolarizing agents,procainamide,effect
+nondepolarizing agents,quinidine,effect
+NIMBEX,antibiotics,effect
+NIMBEX,aminoglycosides,effect
+NIMBEX,tetracyclines,effect
+NIMBEX,bacitracin,effect
+NIMBEX,polymyxins,effect
+NIMBEX,lincomycin,effect
+NIMBEX,clindamycin,effect
+NIMBEX,colistin,effect
+NIMBEX,sodium colistemethate,effect
+NIMBEX,magnesium,effect
+NIMBEX,lithium,effect
+NIMBEX,anesthetics,effect
+NIMBEX,procainamide,effect
+NIMBEX,quinidine,effect
+nondepolarizing neuromuscular blocking agents,phenytoin,effect
+nondepolarizing neuromuscular blocking agents,carbamazepine,effect
+phenytoin,NIMBEX,effect
+carbamazepine,NIMBEX,effect
+INSPRA,ketoconazole,mechanism
+eplerenone,erythromycin,mechanism
+eplerenone,verapamil,mechanism
+eplerenone,saquinavir,mechanism
+eplerenone,fluconazole,mechanism
+INSPRA,ACE inhibitors,effect
+INSPRA,angiotensin II receptor antagonists,effect
+INSPRA,enalapril,effect
+INSPRA,lithium,advise
+potassium-sparing antihypertensives,NSAIDs,effect
+INSPRA,NSAIDs,advise
+CANCIDAS,tacrolimus,mechanism
+cyclosporine,caspofungin,mechanism
+CANCIDAS,cyclosporine,effect
+rifampin,caspofungin,mechanism
+rifampin,CANCIDAS,advise
+efavirenz,CANCIDAS,mechanism
+nevirapine,CANCIDAS,mechanism
+phenytoin,CANCIDAS,mechanism
+dexamethasone,CANCIDAS,mechanism
+carbamazepine,CANCIDAS,mechanism
+CANCIDAS,efavirenz,advise
+CANCIDAS,nevirapine,advise
+CANCIDAS,phenytoin,advise
+CANCIDAS,dexamethasone,advise
+CANCIDAS,carbamazepine,advise
+MAO inhibitors,dopamine HCl,advise
+dopamine HCl,diuretic agents,effect
+dopamine,beta-adrenergic blocking agents,effect
+dopamine,propranolol,effect
+dopamine,metoprolol,effect
+dopamine HCl,alpha-adrenergic blocking agents,effect
+Butyrophenones,dopamine,effect
+haloperidol,dopamine,effect
+phenothiazines,dopamine,effect
+Cyclopropane,catecholamines,effect
+Cyclopropane,dopamine,effect
+halogenated hydrocarbon anesthetics,catecholamines,effect
+halogenated hydrocarbon anesthetics,dopamine,effect
+dopamine HCl,cyclopropane,advise
+dopamine HCl,halogenated hydrocarbon anesthetics,advise
+dopamine,propranolol,effect
+vasopressor,oxytocic drugs,effect
+ergonovine,oxytocic drugs,effect
+phenytoin,dopamine HCl,effect
+dopamine HCl,phenytoin,advise
+monoamine oxidase inhibitors,serotoninergic agents,effect
+monoamine oxidase inhibitors,fluoxetine,effect
+monoamine oxidase inhibitors,fluvoxamine,effect
+monoamine oxidase inhibitors,paroxetine,effect
+monoamine oxidase inhibitors,sertraline,effect
+monoamine oxidase inhibitors,venlafaxine,effect
+MAOIs,serotoninergic agents,effect
+MAOIs,fluoxetine,effect
+MAOIs,fluvoxamine,effect
+MAOIs,paroxetine,effect
+MAOIs,sertraline,effect
+MAOIs,venlafaxine,effect
+selegiline hydrochloride,serotoninergic agents,effect
+selegiline hydrochloride,fluoxetine,effect
+selegiline hydrochloride,fluvoxamine,effect
+selegiline hydrochloride,paroxetine,effect
+selegiline hydrochloride,sertraline,effect
+selegiline hydrochloride,venlafaxine,effect
+dexfenfluramine,MAO inhibitor,advise
+MAO inhibitor,dexfenfluramine,advise
+dexfenfluramine,MAO inhibitor,advise
+selective serotonin reuptake inhibitors,Imitrex,effect
+selective serotonin reuptake inhibitors,sumatriptan succinate,effect
+selective serotonin reuptake inhibitors,dihydroergotamine,effect
+SSRIs,Imitrex,effect
+SSRIs,sumatriptan succinate,effect
+SSRIs,dihydroergotamine,effect
+Dexfenfluramine,serotoninergic agents,advise
+STRATTERA,albuterol,advise
+STRATTERA,paroxetine,advise
+STRATTERA,fluoxetine,advise
+STRATTERA,quinidine,advise
+paroxetine,atomoxetine,mechanism
+fluoxetine,atomoxetine,mechanism
+FLUDARA,pentostatin,advise
+Chirocaine,anesthetics,advise
+levobupivacaine,phenytoin,mechanism
+levobupivacaine,phenobarbital,mechanism
+levobupivacaine,rifampin,mechanism
+levobupivacaine,ketoconazole,mechanism
+phenobarbital,corticosteroids,mechanism
+phenobarbital,corticosteroid,advise
+phenytoin,corticosteroids,mechanism
+phenytoin,corticosteroid,advise
+rifampin,corticosteroids,mechanism
+rifampin,corticosteroid,advise
+troleandomycin,corticosteroids,mechanism
+ketoconazole,corticosteroids,mechanism
+Corticosteroids,aspirin,effect
+salicylate,corticosteroid,effect
+Aspirin,cortico-steroids,advise
+corticosteroids,anticoagulants,effect
+anticoagulants,corticosteroids,effect
+HYDROXYZINE,CENTRAL NERVOUS SYSTEM DEPRESSANTS,effect
+HYDROXYZINE,NARCOTICS,effect
+HYDROXYZINE,NON-NARCOTIC ANALGESICS,effect
+HYDROXYZINE,BARBITURATES,effect
+central nervous system depressants,hydroxyzine,advise
+Erythromycin,theophylline,effect
+theophylline,erythromycin,advise
+erythromycin,digoxin,mechanism
+erythromycin,anticoagulants,effect
+erythromycin,ergotamine,effect
+erythromycin,dihydroergotamine,effect
+Erythromycin,triazolam,mechanism
+Erythromycin,midazolam,mechanism
+Erythromycin,benzodiazepines,effect
+erythromycin,carbamazepine,int
+erythromycin,cyclosporine,int
+erythromycin,tacrolimus,int
+erythromycin,hexobarbital,int
+erythromycin,phenytoin,int
+erythromycin,alfentanil,int
+erythromycin,cisapride,int
+erythromycin,disopyramide,int
+erythromycin,lovastatin,int
+erythromycin,bromocriptine,int
+erythromycin,valproate,int
+erythromycin,terfenadine,int
+erythromycin,astemizole,int
+Erythromycin,terfenadine,mechanism
+Erythromycin,astemizole,mechanism
+terfenadine,erythromycin,effect
+erythromycin,cisapride,effect
+cisapride,erythromycin,mechanism
+lovastatin,erythromycin,advise
+calcium,L-lysine,mechanism
+warfarin-type anticoagulant,griseofulvin,advise
+barbiturates,griseofulvin,effect
+griseofulvin,contraceptives,effect
+MONUROL,metoclopramide,mechanism
+anakinra,TNF-blocking agent,effect
+interleukin-1 antagonist,TNF-blocking agent,effect
+anakinra,TNF-blocking agents,effect
+anakinra,HUMIRA,effect
+Ethoxzolamide,tricyclics,effect
+Ethoxzolamide,amphetamines,effect
+Ethoxzolamide,procainamide,effect
+Ethoxzolamide,quinidine,effect
+ethoxzolamide,diuretics,effect
+ethoxzolamide,amphotericin B,effect
+ethoxzolamide,corticosteroids,effect
+Gleevec,ketoconazole,advise
+Gleevec,itraconazole,advise
+Gleevec,erythromycin,advise
+Gleevec,clarithromycin,advise
+Gleevec,ketoconazole,mechanism
+rifampin,Gleevec,mechanism
+Gleevec,simvastatin,mechanism
+Gleevec,cyclosporine,advise
+Gleevec,pimozide,advise
+Gleevec,benzodiazepines,mechanism
+Gleevec,dihydropyridine calcium channel blockers,mechanism
+Gleevec,HMG-CoA reductase inhibitors,mechanism
+acetaminophen,Gleevec,mechanism
+ranitidine,alendronate,mechanism
+calcium,alendronate,mechanism
+multivalent cations,alendronate,mechanism
+aspirin,ketoprofen,mechanism
+aspirin,ketoprofen,mechanism
+aspirin,ketoprofen,advise
+Hydrochlorothiazide,ketoprofen,effect
+ketoprofen,warfarin,advise
+Probenecid,ketoprofen,mechanism
+ketoprofen,probenecid,advise
+Ketoprofen,methotrexate,mechanism
+NSAIDs,methotrexate,mechanism
+Nonsteroidal anti-inflammatory agents,lithium,mechanism
+ketoprofen,lithium,advise
+alcohol,bromocriptine mesylate,effect
+Bromocriptine mesylate,dopamine antagonists,int
+Bromocriptine mesylate,butyrophenones,int
+bromocriptine mesylate,phenothiazines,effect
+bromocriptine mesylate,haloperidol,effect
+bromocriptine mesylate,metoclopramide,effect
+bromocriptine mesylate,pimozide,effect
+bromocriptine mesylate,ergot alkaloids,advise
+TRISENOX,antiarrhythmics,advise
+TRISENOX,thioridazine,advise
+TRISENOX,diuretics,advise
+TRISENOX,amphotericin B,advise
+cerivastatin sodium,cholestyramine,mechanism
+cholestyramine,cerivastatin sodium,mechanism
+cerivastatin,erythromycin,mechanism
+TRACRIUM,enflurane,effect
+TRACRIUM,enflurane,effect
+TRACRIUM,isoflurane,effect
+TRACRIUM,halothane,effect
+TRACRIUM,antibiotics,effect
+TRACRIUM,aminoglycosides,effect
+TRACRIUM,polymyxins,effect
+TRACRIUM,lithium,effect
+TRACRIUM,magnesium,effect
+TRACRIUM,procainamide,effect
+TRACRIUM,quinidine,effect
+succinylcholine,TRACRIUM,effect
+TRACRIUM,succinylcholine,advise
+Beta-blockers,insulin,effect
+clonidine,insulin,effect
+lithium,insulin,effect
+alcohol,insulin,effect
+antipsychotic drug,antiparkinsonian drug,effect
+antipsychotic drug,trihexyphenidyl,effect
+antipsychotic drug,tricyclic antidepressant,effect
+antipsychotic drug,amitriptyline,effect
+chlorpromazine,antiparkinsonian drug,effect
+chlorpromazine,trihexyphenidyl,effect
+chlorpromazine,tricyclic antidepressant,effect
+chlorpromazine,amitriptyline,effect
+antiparkinsonian drug,tricyclic antidepressant,effect
+antiparkinsonian drug,amitriptyline,effect
+trihexyphenidyl,tricyclic antidepressant,effect
+trihexyphenidyl,amitriptyline,effect
+barbiturates,contraceptives,effect
+Digitalis,Bretylium Tosylate,effect
+catecholamines,Bretylium Tosylate,effect
+dopamine,Bretylium Tosylate,effect
+norepinephrine,Bretylium Tosylate,effect
+ketoconazole,bexarotene,mechanism
+itraconazole,bexarotene,mechanism
+erythromycin,bexarotene,mechanism
+gemfibrozil,bexarotene,mechanism
+rifampin,bexarotene,mechanism
+phenytoin,bexarotene,mechanism
+phenobarbital,bexarotene,mechanism
+Targretin,gemfibrozil,mechanism
+gemfibrozil,Targretin,advise
+antidiabetic agents,VELCADE,advise
+cromolyn sodium,isoproterenol,effect
+CEFOTAN,aminoglycoside,effect
+sulfonylurea,nonsteroidal anti-inflammatory agents,effect
+sulfonylurea,salicylates,effect
+sulfonylurea,sulfonamides,effect
+sulfonylurea,chloramphenicol,effect
+sulfonylurea,probenecid,effect
+sulfonylurea,coumarins,effect
+sulfonylurea,monoamine oxidase inhibitors,effect
+sulfonylurea,beta adrenergic blocking agents,effect
+barbiturates,chlorpropamide,effect
+miconazole,hypoglycemic agents,effect
+Cholestytamine,thiazide diuretics,mechanism
+colestipol,thiazide diuretics,mechanism
+Lithium,diuretics,advise
+Diuretic agents,lithium,mechanism
+Diuretic agents,lithium,mechanism
+lithium,chlorothiazide,advise
+non-steroidal anti-inflammatory agent,loop,effect
+non-steroidal anti-inflammatory agent,potassium-sparing,effect
+non-steroidal anti-inflammatory agent,thiazide diuretics,effect
+chlorothiazide,non-steroidal anti-inflammatory agents,advise
+Cimetidine,TIKOSYN,mechanism
+Cimetidine,dofetilide,mechanism
+TIKOSYN,cimetidine,advise
+TIKOSYN,verapamil,mechanism
+verapamil,dofetilide,effect
+Ketoconazole,TIKOSYN,mechanism
+HCTZ,dofetilide,mechanism
+triamterene,dofetilide,advise
+metformin,dofetilide,advise
+amiloride,dofetilide,advise
+macrolide antibiotics,TIKOSYN,advise
+azole antifungal agents,TIKOSYN,advise
+protease inhibitors,TIKOSYN,advise
+serotonin reuptake inhibitors,TIKOSYN,advise
+amiodarone,TIKOSYN,advise
+cannabinoids,TIKOSYN,advise
+diltiazem,TIKOSYN,advise
+nefazadone,TIKOSYN,advise
+norfloxacin,TIKOSYN,advise
+quinine,TIKOSYN,advise
+zafirlukast,TIKOSYN,advise
+digoxin,dofetilide,effect
+dofetilide,thiazide diuretics,mechanism
+docetaxel,cyclosporine,mechanism
+docetaxel,terfenadine,mechanism
+docetaxel,ketoconazole,mechanism
+docetaxel,erythromycin,mechanism
+docetaxel,troleandomycin,mechanism
+EXTRANEAL,insulin,advise
+naproxen sodium,Neurontin,mechanism
+Hydrocodone,gabapentin,mechanism
+morphine,Neurontin,mechanism
+cimetidine,gabapentin,mechanism
+cimetidine,gabapentin,mechanism
+gabapentin,cimetidine,mechanism
+norethindrone,gabapentin,mechanism
+Maalox,gabapentin,mechanism
+gabapentin,Maalox,mechanism
+gabapentin,Maalox,advise
+sympathomimetic agents,FORADIL,effect
+FORADIL,monoamine oxidase inhibitors,advise
+FORADIL,tricyclic antidepressants,advise
+xanthine derivatives,beta2-agonists.,effect
+steroids,beta2-agonists.,effect
+diuretics,beta2-agonists.,effect
+beta-adrenergic receptor blocking agents,Anesthetics,int
+nitroglycerin,vasodilators,effect
+calcium channel blockers,nitrates,effect
+Antacids,chloroquine,mechanism
+kaolin,chloroquine,mechanism
+Cimetidine,chloroquine,mechanism
+chloroquine,ampicillin,mechanism
+chloroquine,cyclosporin,mechanism
+Apraclonidine,MAO inhibitors,advise
+IOPIDINE,CNS depressants,advise
+IOPIDINE,alcohol,advise
+IOPIDINE,barbiturates,advise
+IOPIDINE,opiates,advise
+IOPIDINE,sedatives,advise
+IOPIDINE,anesthetics,advise
+Tricyclic antidepressants,clonidine,effect
+clonidine,neuroleptic,effect
+apraclonidine,beta-blockers,advise
+apraclonidine,antihypertensives,advise
+apraclonidine,cardiac glycosides,advise
+LEVSIN,antimuscarinics,effect
+LEVSIN,amantadine,effect
+LEVSIN,haloperidol,effect
+LEVSIN,phenothiazines,effect
+LEVSIN,monoamine oxidase (MAO) inhibitors,effect
+LEVSIN,tricyclic antidepressants,effect
+LEVSIN,antihistamines,effect
+Antacids,LEVSIN,mechanism
+Cytadren,dexamethasone,mechanism
+Aminoglutethimide,coumarin,effect
+Aminoglutethimide,warfarin,effect
+Angiomax,heparin,effect
+Angiomax,warfarin,effect
+Angiomax,thrombolytics,effect
+cephalosporins,aminoglycoside antibiotics,effect
+ranitidine,ceftibuten,mechanism
+ranitidine,ceftibuten,mechanism
+Chlorotrianisene,antidepressants,int
+Chlorotrianisene,aspirin,int
+Chlorotrianisene,barbiturates,int
+Chlorotrianisene,bromocriptine,int
+Chlorotrianisene,calcium,int
+Chlorotrianisene,corticosteroids,int
+Chlorotrianisene,corticotropin,int
+Chlorotrianisene,cyclosporine,int
+Chlorotrianisene,dantrolene,int
+Chlorotrianisene,nicotine,int
+Chlorotrianisene,somatropin,int
+Chlorotrianisene,tamoxifen,int
+Chlorotrianisene,warfarin,int
+Iodine,Carbimazole,effect
+iodine,Carbimazole,effect
+digoxin,antithyroid agents,mechanism
+digitoxin,antithyroid agents,mechanism
+Antithyroid agents,sodium iodide I131,effect
+oxyphenbutazone,androgens,mechanism
+androgens,insulin,effect
+L-methionine,acetaminophen,effect
+L-methionine,methotrexate,effect
+Methionine,gentamicin,effect
+Diphenhydramine hydrochloride,alcohol,effect
+Diphenhydramine hydrochloride,CNS depressants,effect
+Diphenhydramine hydrochloride,hypnotics,effect
+Diphenhydramine hydrochloride,sedatives,effect
+Diphenhydramine hydrochloride,tranquilizers,effect
+MAO inhibitors,antihistamines,effect
+Sucralfate,lomefloxacin,mechanism
+magnesium,lomefloxacin,mechanism
+aluminum,lomefloxacin,mechanism
+Videx,lomefloxacin,mechanism
+didanosine,lomefloxacin,mechanism
+Sucralfate,lomefloxacin,mechanism
+Magnesium,lomefloxacin,mechanism
+aluminum,lomefloxacin,mechanism
+antacids,lomefloxacin,mechanism
+antacid,lomefloxacin,mechanism
+quinolones,caffeine,mechanism
+Cimetidine,quinolones,mechanism
+cyclosporine,quinolone class,mechanism
+Quinolones,anticoagulant,effect
+Quinolones,warfarin,effect
+duloxetine,fluvoxamine,mechanism
+Paroxetine,duloxetine,mechanism
+duloxetine,desipramine,mechanism
+Duloxetine,antidepressants,advise
+Duloxetine,tricyclic antidepressants,advise
+Duloxetine,TCAs,advise
+Duloxetine,nortriptyline,advise
+Duloxetine,amitriptyline,advise
+Duloxetine,imipramine,advise
+Duloxetine,phenothiazines,advise
+Duloxetine,Type 1C antiarrhythmics,advise
+Duloxetine,propafenone,advise
+Duloxetine,flecainide,advise
+TCA,Duloxetine,advise
+Duloxetine,thioridazine,advise
+sulfonylureas,nonsteroidal anti-inflammatory agents,effect
+sulfonylureas,azoles,effect
+sulfonylureas,salicylates,effect
+sulfonylureas,sulfonamides,effect
+sulfonylureas,chloramphenicol,effect
+sulfonylureas,probenecid,effect
+sulfonylureas,coumarins,effect
+sulfonylureas,monoamine oxidase inhibitors,effect
+sulfonylureas,beta adrenergic blocking agents,effect
+miconazole,hypoglycemic agents,int
+fluconazole,glipizide,int
+glipizide,fluconazole,mechanism
+Cevimeline,beta adrenergic antagonists,advise
+guanfacine,CNS-depressant drug,effect
+guanfacine,phenobarbital,mechanism
+guanfacine,phenytoin,mechanism
+TCAs,guanfacine,effect
+Noncardioselective beta-blockers,guanfacine,effect
+nadolol,guanfacine,effect
+timolol,guanfacine,effect
+BETAGAN,epinephrine,effect
+beta-blocker,reserpine,advise
+beta-adrenergic blocking agents,calcium antagonists,advise
+beta-adrenergic blocking agents,digitalis,effect
+beta-adrenergic blocking agents,calcium antagonist,effect
+Phenothiazine-related compounds,beta-adrenergic blocking agents,mechanism
+Dexbrompheniramine,alcohol,int
+Dexbrompheniramine,CNS depressants,int
+Dexbrompheniramine,anticholinergics,int
+Dexbrompheniramine,monoamine oxidase (MAO) inhibitors,int
+SSRI,TCA,int
+T.A.,SSRIs,advise
+desipramine hydrochloride,psychotropic agents,effect
+desipramine hydrochloride,tranquilizers,effect
+desipramine hydrochloride,sedative,effect
+desipramine hydrochloride,hypnotics,effect
+desipramine,benzodiazepines,effect
+desipramine,chlordiazepoxide,effect
+desipramine,diazepam,effect
+major tranquilizers,desipramine,effect
+cimetidine,tricyclic antidepressants,mechanism
+tricyclic antidepressants,cimetidine,mechanism
+tricyclic antidepressants,fluoxetine,mechanism
+cephalexin,metformin,mechanism
+cephalexin,metformin,mechanism
+cephalexin,metformin,advise
+cephalexin,probenecid,mechanism
+aminoglycosides,PROLEUKIN,effect
+indomethacin,PROLEUKIN,effect
+cytotoxic,PROLEUKIN,effect
+doxorubicin,PROLEUKIN,effect
+methotrexate,PROLEUKIN,effect
+asparaginase,PROLEUKIN,effect
+PROLEUKIN,antineoplastic agents,effect
+PROLEUKIN,dacarbazine,effect
+PROLEUKIN,cis-platinum,effect
+PROLEUKIN,tamoxifen,effect
+PROLEUKIN,interferon-alfa,effect
+PROLEUKIN,interferon-alfa,effect
+interferon-alfa,PROLEUKIN,effect
+glucocorticoids,PROLEUKIN,effect
+Beta-blockers,PROLEUKIN,effect
+antihypertensives,PROLEUKIN,effect
+interleukin-2,radiographic iodinated contrast media,effect
+alcohol,ethchlorvynol,effect
+barbiturates,ethchlorvynol,effect
+MAOIs,ethchlorvynol,effect
+Azlocillin,amikacin,advise
+Azlocillin,ciprofloxacin,advise
+Azlocillin,gentamicin,advise
+Azlocillin,netilmicin,advise
+Azlocillin,tobramycin,advise
+dapsone,Lamprene,effect
+dapsone,clofazimine,advise
+Mineral oil,fat-soluble vitamins,mechanism
+Mineral oil,vitamin D preparations,mechanism
+thiazide diuretics,ergocalciferol,effect
+thiazide diuretics,digitalis,effect
+hypoglycemic medications,thiazide diuretic,advise
+steroidal anti-inflammatory agent,loop,effect
+steroidal anti-inflammatory agent,potassium sparing,effect
+steroidal anti-inflammatory agent,thiazide diuretics,effect
+hydroflumethiazide,nonsteroidal anti-inflammatory agents,advise
+Thiazides,norepinephrine,effect
+Thiazide drugs,tubocurarine,effect
+Felbatol,antiepileptic drugs,mechanism
+Felbatol,AEDs,mechanism
+Felbatol,phenytoin,mechanism
+felbamate,phenytoin,mechanism
+felbamate,phenytoin,advise
+Felbatol,carbamazepine,mechanism
+carbamazepine,felbamate,mechanism
+Felbatol,valproate,mechanism
+felbamate,valproate,mechanism
+felbamate,phenobarbital,mechanism
+Phenytoin,Felbatol,mechanism
+Phenytoin,felbamate,mechanism
+phenytoin,Felbatol,mechanism
+Carbamazepine,Felbatol,mechanism
+carbamazepine,Felbatol,mechanism
+phenobarbital,felbamate,mechanism
+Felbamate,gestodene,mechanism
+Argatroban,warfarin,effect
+Argatroban,antiplatelet agents,effect
+Argatroban,thrombolytics,effect
+Argatroban,anticoagulants,effect
+fentanyl,ritonavir,mechanism
+fentanyl,ketoconazole,mechanism
+fentanyl,itraconazole,mechanism
+fentanyl,troleandomycin,mechanism
+fentanyl,clarithromycin,mechanism
+fentanyl,nelfinavir,mechanism
+diltiazem,fentanyl,mechanism
+erythromycin,fentanyl,mechanism
+DURAGESIC,central nervous system depressants,effect
+DURAGESIC,opioids,effect
+DURAGESIC,sedatives,effect
+DURAGESIC,hypnotics,effect
+DURAGESIC,tranquilizers,effect
+DURAGESIC,benzodiazepines,effect
+DURAGESIC,anesthetics,effect
+DURAGESIC,phenothiazines,effect
+DURAGESIC,skeletal muscle relaxants,effect
+DURAGESIC,alcohol,effect
+fentanyl,central nervous system depressants,effect
+fentanyl,opioids,effect
+fentanyl,sedatives,effect
+fentanyl,hypnotics,effect
+fentanyl,tranquilizers,effect
+fentanyl,benzodiazepines,effect
+fentanyl,anesthetics,effect
+fentanyl,phenothiazines,effect
+fentanyl,skeletal muscle relaxants,effect
+fentanyl,alcohol,effect
+DURAGESIC,MAOI,advise
+MAO inhibitors,opioid analgesics,advise
+NSAIDs,Angiotensin Converting Enzyme (ACE) inhibitors,effect
+VIOXX,benazepril,effect
+VIOXX,ACE inhibitors,advise
+aspirin,VIOXX,effect
+cimetidine,rofecoxib,mechanism
+NSAIDs,furosemide,effect
+NSAIDs,thiazides,effect
+NSAIDs,lithium,mechanism
+VIOXX,lithium,advise
+VIOXX,methotrexate,mechanism
+methotrexate,rofecoxib,mechanism
+VIOXX,methotrexate,advise
+VIOXX,rifampin,mechanism
+VIOXX,theophylline,mechanism
+VIOXX,theophylline,advise
+VIOXX,warfarin,advise
+warfarin,rofecoxib,effect
+VIOXX,warfarin,effect
+nevirapine,warfarin,int
+warfarin,nevirapine,advise
+Clarithromycin,nevirapine,mechanism
+contraceptives,nevirapine,advise
+Nevirapine,ketoconazole,advise
+lopinavir,nevirapine,advise
+ritonavir,nevirapine,advise
+Methadone,nevirapine,advise
+Nevirapine,rifampin,advise
+nevirapine,methadone,effect
+quinolones,caffeine,mechanism
+ciprofloxacin,caffeine,mechanism
+quinolones,cyclosporine,effect
+ciprofloxacin,cyclosporine,effect
+ciprofloxacin,sulfonylurea,effect
+ciprofloxacin,glyburide,effect
+methotrexate,ciprofloxacin,mechanism
+methotrexate,ciprofloxacin,advise
+quinolone,magnesium,mechanism
+quinolone,aluminum,mechanism
+quinolone,antacids,mechanism
+quinolone,sucralfate,mechanism
+quinolone,VIDEX,mechanism
+quinolone,calcium,mechanism
+quinolone,iron,mechanism
+quinolone,zinc,mechanism
+ciprofloxacin,magnesium,mechanism
+ciprofloxacin,aluminum,mechanism
+ciprofloxacin,antacids,mechanism
+ciprofloxacin,sucralfate,mechanism
+ciprofloxacin,VIDEX,mechanism
+ciprofloxacin,calcium,mechanism
+ciprofloxacin,iron,mechanism
+ciprofloxacin,zinc,mechanism
+ciprofloxacin,ciprofloxacin,mechanism
+ciprofloxacin,antacids,advise
+phenytoin,ciprofloxacin,mechanism
+Probenecid,ciprofloxacin,mechanism
+Probenecid,ciprofloxacin,mechanism
+quinolones,theophylline,mechanism
+ciprofloxacin,theophylline,mechanism
+Quinolones,warfarin,effect
+Benzthiazide,alcohol,int
+Benzthiazide,blood thinner,int
+Benzthiazide,decongestant drugs,int
+Benzthiazide,lithium,int
+Benzthiazide,norepinephrine,int
+Benzthiazide,NSAIDs,int
+Benzthiazide,Aleve,int
+Benzthiazide,Ibuprofen,int
+aspirin,valdecoxib,effect
+NSAIDs,ACE-inhibitors,effect
+BEXTRA,ACE-inhibitors,advise
+NSAIDs,furosemide,effect
+NSAIDs,thiazides,effect
+valdecoxib,phenytoin,mechanism
+valdecoxib,phenytoin,advise
+valdecoxib,dextromethorphan,mechanism
+dextromethorphan,valdecoxib,mechanism
+Valdecoxib,lithium,mechanism
+BEXTRA,lithium,advise
+Valdecoxib,R-warfarin,mechanism
+Valdecoxib,S-warfarin,mechanism
+Valdecoxib,warfarin,effect
+BEXTRA,warfarin,advise
+valdecoxib,ketoconazole,mechanism
+valdecoxib,fluconazole,mechanism
+valdecoxib,fluconazole,mechanism
+valdecoxib,ketoconazole,mechanism
+valdecoxib,glyburide,mechanism
+glyburide,valdecoxib,advise
+valdecoxib,omeprazole,mechanism
+valdecoxib,Ortho-Novum,mechanism
+contraceptive,valdecoxib,advise
+diazepam,valdecoxib,mechanism
+valdecoxib,diazepam,effect
+warfarin,IRESSA,effect
+ketoconazole,gefitinib,mechanism
+ketoconazole,gefitinib,mechanism
+itraconazole,gefitinib,mechanism
+itraconazole,gefitinib,mechanism
+histamine H2-receptor antagonists,IRESSA,mechanism
+ranitidine,IRESSA,mechanism
+cimetidine,IRESSA,mechanism
+IRESSA,vinorelbine,effect
+ERGAMISOL,alcohol,effect
+levamisole hydrochloride,alcohol,effect
+levamisole,warfarin sodium,advise
+nelfinavir,azithromycin,effect
+azithromycin,nelfinavir,advise
+azithromycin,warfarin,advise
+macrolides,warfarin,effect
+azithromycin,atorvastatin,mechanism
+azithromycin,carbamazepine,mechanism
+azithromycin,cetirizine,mechanism
+azithromycin,didanosine,mechanism
+azithromycin,efavirenz,mechanism
+azithromycin,fluconazole,mechanism
+azithromycin,indinavir,mechanism
+azithromycin,midazolam,mechanism
+azithromycin,rifabutin,mechanism
+azithromycin,sildenafil,mechanism
+azithromycin,theophylline,mechanism
+azithromycin,triazolam,mechanism
+azithromycin,trimethoprim,mechanism
+azithromycin,sulfamethoxazole,mechanism
+azithromycin,zidovudine,mechanism
+efavirenz,azithromycin,mechanism
+fluconazole,azithromycin,mechanism
+buprenorphine,benzodiazepines,int
+buprenorphine,benzodiazepines,effect
+SUBUTEX,benzodiazepines,advise
+SUBOXONE,benzodiazepines,advise
+benzodiazepines,SUBOXONE,advise
+benzodiazepines,SUBUTEX,advise
+Colchicine,acidifying agents,mechanism
+colchicine,alkalinizing agents,mechanism
+Colchicine,CNS depressants,effect
+sympathomimetic agents,colchicine,effect
+probenecid,ertapenem,mechanism
+ertapenem,probenecid,mechanism
+probenecid,ertapenem,advise
+b-lactam antibiotics,probenecid,mechanism
+loracarbef,probenecid,mechanism
+L-phenylalanine,non-selective MAO inhibitors,effect
+L-phenylalanine,selegiline,effect
+Neuroleptic Drugs,L-phenylalanine,effect
+caffeine,cimetidine,advise
+caffeine,ketoconazole,advise
+caffeine,phenobarbital,advise
+caffeine,phenytoin,advise
+Caffeine,ketoprofen,effect
+MAO inhibitors,antihistamines,effect
+antihistamines,alcohol,effect
+antihistamines,tricyclic antidepressants,effect
+antihistamines,barbiturates,effect
+antihistamines,central nervous system depressants,effect
+sympathomimetic drugs,monoamine oxidase inhibitors,effect
+methyldopa,sympathomimetics,effect
+mecamylamine,sympathomimetics,effect
+reserpine,sympathomimetics,effect
+veratrum alkaloids,sympathomimetics,effect
+Beta-adrenergic blocking agents,sympathomimetics,int
+pseudoephedrine,digitalis,effect
+Antacids,pseudoephedrine,mechanism
+pseudoephedrine,kaolin,mechanism
+Allopurinol,mercaptopurine,mechanism
+Allopurinol,azathioprine,mechanism
+allopurinol,mercaptopurine,advise
+allopurinol,azathioprine,advise
+allopurinol,dicumarol,mechanism
+uricosuric agents,oxipurinol,mechanism
+uricosuric agents,allopurinol,mechanism
+allopurinol,thiazide diuretics,effect
+thiazide diuretics,allopurinol,advise
+ampicillin,allopurinol,effect
+amoxicillin,allopurinol,effect
+cyclophosphamide,allopurinol,effect
+cytotoxic agents,allopurinol,effect
+Chlorpropamide,allopurinol,mechanism
+allopurinol,chlorpropamide,mechanism
+allopurinol,chlorpropamide,effect
+cyclosporine,allopurinol sodium,mechanism
+cholestyramine,anticoagulants,mechanism
+cholestyramine,vitamin K,mechanism
+Chloral hydrate,anticoagulant,mechanism
+anticoagulant,adrenocortical steroids,effect
+anticoagulant,adrenocortical steroids,effect
+anticoagulant,alcohol,effect
+anticoagulant,antacids,effect
+anticoagulant,antihistamines,effect
+anticoagulant,barbiturates,effect
+anticoagulant,carbamazepine,effect
+anticoagulant,chloral hydrate,effect
+anticoagulant,chlordiazepoxide,effect
+anticoagulant,cholestyramine,effect
+anticoagulant,vitamin K,effect
+anticoagulant,diuretics,effect
+anticoagulant,ethchlorvynol,effect
+anticoagulant,glutethimide,effect
+anticoagulant,griseofulvin,effect
+anticoagulant,haloperidol,effect
+anticoagulant,meprobamate,effect
+anticoagulant,contraceptives,effect
+anticoagulant,paraldehyde,effect
+anticoagulant,primidone,effect
+anticoagulant,ranitidine,effect
+anticoagulant,rifampin,effect
+anticoagulant,vitamin C,effect
+anticoagulant,warfarin sodium,effect
+anticoagulant,alcohol,effect
+anticoagulant,alcohol,effect
+anticoagulant,allopurinol,effect
+anticoagulant,aminosalicylic acid,effect
+anticoagulant,amiodarone,effect
+anticoagulant,anabolic steroids,effect
+anticoagulant,antibiotics,effect
+anticoagulant,bromelains,effect
+anticoagulant,chloral hydrate,effect
+anticoagulant,chlorpropamide,effect
+anticoagulant,chymotrypsin,effect
+anticoagulant,cimetidine,effect
+anticoagulant,cinchophen,effect
+anticoagulant,clofibrate,effect
+anticoagulant,dextran,effect
+anticoagulant,dextrothyroxine,effect
+anticoagulant,diazoxide,effect
+anticoagulant,diflunisal,effect
+anticoagulant,disulfiram,effect
+anticoagulant,ethacrynic acid,effect
+anticoagulant,fenoprofen,effect
+anticoagulant,glucagon,effect
+anticoagulant,ibuprofen,effect
+anticoagulant,indomethacin,effect
+anticoagulant,influenza virus vaccine,effect
+anticoagulant,anesthetics,effect
+anticoagulant,mefenamic acid,effect
+anticoagulant,methyldopa,effect
+anticoagulant,methylphenidate,effect
+anticoagulant,metronidazole,effect
+anticoagulant,miconazole,effect
+anticoagulant,monoamine oxidase inhibitors,effect
+anticoagulant,nalidixic acid,effect
+anticoagulant,naproxen,effect
+anticoagulant,oxolinic acid,effect
+anticoagulant,oxyphenbutazone,effect
+anticoagulant,pentoxifylline,effect
+anticoagulant,phenylbutazone,effect
+anticoagulant,phenyramidol,effect
+anticoagulant,phenytoin,effect
+anticoagulant,prolonged narcotics,effect
+anticoagulant,pyrazolones,effect
+anticoagulant,quinidine,effect
+anticoagulant,quinine,effect
+anticoagulant,ranitidine,effect
+anticoagulant,salicylates,effect
+anticoagulant,sulfinpyrazone,effect
+anticoagulant,sulfonamides,effect
+anticoagulant,sulindac,effect
+anticoagulant,thyroid drugs,effect
+anticoagulant,tolbutamide,effect
+anticoagulant,triclofos sodium,effect
+anticoagulant,trimethoprim,effect
+anticoagulant,sulfamethoxazole,effect
+anticoagulant,warfarin sodium,effect
+anticoagulants,hypoglycemic agents,mechanism
+anticoagulants,tolbutamide,mechanism
+anticoagulants,chlorpropamide,mechanism
+anticoagulants,phenytoin,mechanism
+anticoagulant,phenytoin,mechanism
+antineoplastic agents,anticoagulants,effect
+aspirin,anticoagulants,effect
+non-steroidal anti-inflammatory drugs,anticoagulants,effect
+dipyridamole,anticoagulants,effect
+hydrochloroquine,anticoagulants,effect
+clofibrate,anticoagulants,effect
+dextran,anticoagulants,effect
+antiplatelet,anticoagulant medication,advise
+dexamethasone,albendazole,mechanism
+praziquantel,albendazole sulfoxide,mechanism
+Albendazole sulfoxide,cimetidine,mechanism
