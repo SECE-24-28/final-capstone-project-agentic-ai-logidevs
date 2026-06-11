@@ -1,0 +1,16 @@
+
+Epoch 1
+Train Loss: 0.9975068148095809
+Val Loss: 0.8836240603192018
+Accuracy: 0.6422360248447205
+              precision    recall  f1-score   support
+
+      advise       0.50      0.36      0.42       168
+      effect       0.68      0.77      0.72       324
+         int       1.00      0.27      0.42        41
+   mechanism       0.64      0.72      0.68       272
+
+    accuracy                           0.64       805
+   macro avg       0.71      0.53      0.56       805
+weighted avg       0.65      0.64      0.63       805
+
